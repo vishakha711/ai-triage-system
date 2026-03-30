@@ -1,0 +1,1501 @@
+symptom_text,age,heart_rate,spo2,temperature,waiting_time,emergency_score,priority_label
+high fever with weakness,81,106,90,101.6,3,0.4,HIGH
+moderate chest pain,23,128,92,100.6,16,0.3,HIGH
+severe breathing difficulty,48,130,81,102.4,8,1.0,HIGH
+prescription refill,49,66,100,98.6,4,0.0,LOW
+body ache,43,91,96,98.8,3,0.0,LOW
+severe breathing difficulty,7,125,80,103.2,20,1.0,HIGH
+high fever with weakness,1,126,95,100.0,31,0.3,HIGH
+moderate chest pain,33,112,94,101.8,1,0.3,HIGH
+routine checkup request,37,70,97,98.3,36,0.0,LOW
+prescription refill,62,73,98,98.9,16,0.0,LOW
+mild fever,44,95,100,98.6,27,0.0,LOW
+mild fever,56,81,99,98.0,35,0.0,LOW
+major trauma from accident,44,122,80,103.7,20,1.0,HIGH
+body ache,75,86,96,99.8,19,0.0,LOW
+severe chest pain with sweating,80,136,90,103.6,6,1.0,HIGH
+prescription refill,47,69,100,99.0,33,0.0,LOW
+minor fracture pain,52,108,93,99.3,30,0.0,MEDIUM
+mild fever,90,74,96,99.8,14,0.0,LOW
+major trauma from accident,25,121,84,104.8,8,1.0,HIGH
+headache with nausea,37,91,92,100.0,16,0.0,MEDIUM
+headache with nausea,20,86,98,100.9,17,0.0,MEDIUM
+major trauma from accident,26,136,83,102.3,31,1.0,HIGH
+moderate chest pain,69,110,88,102.4,35,0.7,HIGH
+mild allergy rash,5,81,99,98.6,25,0.0,LOW
+shortness of breath,33,125,88,102.5,9,1.0,HIGH
+persistent vomiting,45,106,95,100.9,8,0.0,HIGH
+prescription refill,8,72,99,99.4,3,0.0,LOW
+severe breathing difficulty,87,146,84,104.7,2,1.0,HIGH
+prescription refill,1,84,100,98.8,9,0.0,LOW
+routine checkup request,70,70,99,99.2,33,0.0,LOW
+unconscious after collapse,25,135,90,102.4,7,1.0,HIGH
+unconscious after collapse,5,132,83,103.8,40,1.0,HIGH
+minor fracture pain,33,99,96,101.6,22,0.0,MEDIUM
+mild allergy rash,28,78,99,98.8,38,0.0,LOW
+sore throat,43,73,96,99.4,33,0.0,LOW
+persistent vomiting,90,105,93,102.7,18,0.3,HIGH
+prescription refill,49,76,97,98.8,4,0.0,LOW
+unconscious after collapse,19,136,81,104.1,33,1.0,HIGH
+fever and cough,85,104,93,99.1,5,0.0,MEDIUM
+severe chest pain with sweating,25,120,81,103.9,40,1.0,HIGH
+routine checkup request,48,83,97,98.2,20,0.0,LOW
+headache with nausea,24,100,95,101.3,23,0.0,MEDIUM
+unconscious after collapse,20,133,87,103.8,20,1.0,HIGH
+seizure activity ongoing,7,130,87,102.5,9,1.0,HIGH
+minor fracture pain,62,97,96,100.3,15,0.0,MEDIUM
+unconscious after collapse,47,123,85,103.3,22,1.0,HIGH
+shortness of breath,59,121,89,101.7,20,0.7,HIGH
+sore throat,34,83,97,99.0,7,0.0,LOW
+moderate chest pain,33,129,89,100.7,11,0.7,HIGH
+routine checkup request,45,83,99,98.3,37,0.0,LOW
+moderate chest pain,21,107,93,101.0,19,0.0,HIGH
+mild allergy rash,12,65,100,99.3,3,0.0,LOW
+shortness of breath,23,127,92,100.5,24,0.3,HIGH
+prescription refill,73,61,99,98.2,23,0.0,LOW
+high fever with weakness,61,116,88,101.5,14,0.7,HIGH
+shortness of breath,42,126,92,100.5,30,0.3,HIGH
+routine checkup request,9,80,98,98.5,11,0.0,LOW
+severe breathing difficulty,14,124,88,104.1,22,1.0,HIGH
+unconscious after collapse,81,143,87,102.9,26,1.0,HIGH
+mild fever,87,79,95,99.6,29,0.0,LOW
+unconscious after collapse,78,124,90,102.5,34,1.0,HIGH
+mild allergy rash,23,75,99,98.2,23,0.0,LOW
+sore throat,55,90,95,99.8,35,0.0,LOW
+body ache,25,71,95,99.3,30,0.0,LOW
+headache with nausea,30,86,93,99.8,32,0.0,MEDIUM
+minor fracture pain,87,88,98,101.7,13,0.0,MEDIUM
+minor fracture pain,34,110,96,100.2,2,0.0,MEDIUM
+routine checkup request,17,82,99,98.1,23,0.0,LOW
+seizure activity ongoing,38,123,89,103.1,24,1.0,HIGH
+shortness of breath,42,129,89,101.9,35,0.7,HIGH
+fever and cough,30,97,97,100.7,12,0.0,MEDIUM
+headache with nausea,8,97,93,99.4,27,0.0,MEDIUM
+mild allergy rash,85,66,99,98.4,19,0.0,LOW
+headache with nausea,77,102,92,99.3,37,0.0,MEDIUM
+routine checkup request,44,81,100,98.9,33,0.0,LOW
+mild allergy rash,47,64,97,98.5,18,0.0,LOW
+body ache,14,84,96,98.3,3,0.0,LOW
+mild allergy rash,37,62,97,99.2,9,0.0,LOW
+headache with nausea,90,96,94,101.1,36,0.0,MEDIUM
+shortness of breath,81,116,88,102.3,11,1.0,HIGH
+severe chest pain with sweating,76,137,84,105.0,19,1.0,HIGH
+mild fever,69,71,96,98.1,15,0.0,LOW
+high fever with weakness,30,106,89,100.8,15,0.4,HIGH
+shortness of breath,87,129,90,102.0,9,0.7,HIGH
+severe breathing difficulty,6,148,81,101.6,38,0.7,HIGH
+prescription refill,42,80,97,98.0,26,0.0,LOW
+high fever with weakness,21,128,89,101.6,3,0.7,HIGH
+severe chest pain with sweating,61,150,88,104.6,12,1.0,HIGH
+fever and cough,71,105,97,99.1,16,0.0,MEDIUM
+fever and cough,20,99,92,100.3,34,0.0,MEDIUM
+minor fracture pain,4,100,94,101.4,31,0.0,MEDIUM
+body ache,13,80,99,98.5,7,0.0,LOW
+minor fracture pain,86,101,93,100.0,36,0.0,MEDIUM
+sore throat,66,93,100,99.9,3,0.0,LOW
+shortness of breath,28,127,89,102.5,13,1.0,HIGH
+fever and cough,53,102,97,101.6,21,0.0,MEDIUM
+prescription refill,45,83,98,99.3,2,0.0,LOW
+fever and cough,16,105,93,99.5,20,0.0,MEDIUM
+minor fracture pain,72,93,93,99.8,4,0.0,MEDIUM
+severe breathing difficulty,15,150,89,104.2,23,1.0,HIGH
+routine checkup request,87,80,97,99.0,17,0.0,LOW
+severe breathing difficulty,5,146,83,102.0,4,0.7,HIGH
+severe chest pain with sweating,7,123,86,104.4,31,1.0,HIGH
+prescription refill,69,85,98,98.6,24,0.0,LOW
+seizure activity ongoing,83,148,85,102.2,30,1.0,HIGH
+shortness of breath,78,120,89,101.8,26,0.7,HIGH
+seizure activity ongoing,27,124,83,102.9,26,1.0,HIGH
+seizure activity ongoing,27,136,86,103.7,9,1.0,HIGH
+unconscious after collapse,44,145,81,101.1,25,0.7,HIGH
+body ache,63,86,98,99.1,19,0.0,LOW
+sore throat,4,85,99,98.2,13,0.0,LOW
+mild allergy rash,20,78,98,98.8,22,0.0,LOW
+minor fracture pain,32,94,98,100.4,6,0.0,MEDIUM
+prescription refill,79,74,98,99.0,10,0.0,LOW
+high fever with weakness,55,124,88,102.6,19,1.0,HIGH
+moderate chest pain,54,107,94,101.3,2,0.0,HIGH
+mild fever,81,92,98,99.2,3,0.0,LOW
+high fever with weakness,62,116,93,100.9,38,0.3,HIGH
+body ache,43,82,100,99.9,29,0.0,LOW
+fever and cough,73,98,92,100.0,26,0.0,MEDIUM
+body ache,34,80,97,99.0,8,0.0,LOW
+sore throat,55,88,100,99.8,20,0.0,LOW
+sore throat,56,73,95,98.9,4,0.0,LOW
+high fever with weakness,54,111,94,101.5,10,0.3,HIGH
+body ache,14,85,95,99.2,16,0.0,LOW
+unconscious after collapse,16,129,88,102.6,31,1.0,HIGH
+prescription refill,56,62,100,98.2,19,0.0,LOW
+seizure activity ongoing,11,125,85,102.5,7,1.0,HIGH
+body ache,16,75,99,99.2,26,0.0,LOW
+mild allergy rash,59,69,98,98.9,32,0.0,LOW
+moderate chest pain,43,114,92,102.6,19,0.6,HIGH
+unconscious after collapse,46,130,80,101.7,21,0.7,HIGH
+mild allergy rash,66,77,100,98.7,16,0.0,LOW
+prescription refill,44,72,100,99.2,2,0.0,LOW
+severe chest pain with sweating,56,129,81,102.6,23,1.0,HIGH
+persistent vomiting,32,110,88,102.3,35,0.7,HIGH
+persistent vomiting,88,113,91,101.3,36,0.7,HIGH
+sore throat,66,91,96,98.5,13,0.0,LOW
+seizure activity ongoing,15,123,84,101.5,39,0.7,HIGH
+moderate chest pain,66,126,93,101.7,3,0.3,HIGH
+prescription refill,9,60,98,99.3,36,0.0,LOW
+prescription refill,71,82,97,98.4,22,0.0,LOW
+mild fever,62,74,97,98.8,26,0.0,LOW
+shortness of breath,35,124,89,101.2,15,0.7,HIGH
+moderate chest pain,86,115,94,101.1,14,0.3,HIGH
+fever and cough,37,87,98,101.9,13,0.0,MEDIUM
+minor fracture pain,30,103,95,100.3,17,0.0,MEDIUM
+moderate chest pain,23,115,88,102.6,23,1.0,HIGH
+seizure activity ongoing,68,140,89,101.8,21,0.7,HIGH
+minor fracture pain,88,99,98,99.9,19,0.0,MEDIUM
+mild allergy rash,85,77,98,99.4,38,0.0,LOW
+fever and cough,81,109,98,100.5,31,0.0,MEDIUM
+fever and cough,73,100,92,100.3,9,0.0,MEDIUM
+prescription refill,38,61,98,99.4,26,0.0,LOW
+body ache,26,94,98,98.3,35,0.0,LOW
+mild allergy rash,71,65,98,98.4,12,0.0,LOW
+minor fracture pain,73,94,93,101.2,32,0.0,MEDIUM
+persistent vomiting,78,105,90,102.9,14,0.7,HIGH
+routine checkup request,43,60,98,98.7,22,0.0,LOW
+shortness of breath,13,105,90,102.0,39,0.4,HIGH
+fever and cough,22,100,98,100.1,6,0.0,MEDIUM
+high fever with weakness,83,111,95,102.3,32,0.6,HIGH
+severe breathing difficulty,15,131,83,102.3,21,1.0,HIGH
+routine checkup request,70,67,97,99.1,7,0.0,LOW
+shortness of breath,43,123,91,102.6,4,1.0,HIGH
+sore throat,33,72,97,98.4,26,0.0,LOW
+mild fever,13,84,95,99.9,32,0.0,LOW
+moderate chest pain,28,108,90,101.8,36,0.4,HIGH
+routine checkup request,71,65,99,98.1,16,0.0,LOW
+sore throat,14,74,98,99.6,18,0.0,LOW
+shortness of breath,46,109,94,102.8,12,0.3,HIGH
+sore throat,73,93,98,98.5,21,0.0,LOW
+routine checkup request,61,74,97,98.4,21,0.0,LOW
+mild allergy rash,64,69,98,98.2,13,0.0,LOW
+fever and cough,57,108,97,101.7,21,0.0,MEDIUM
+severe chest pain with sweating,17,139,88,102.3,27,1.0,HIGH
+unconscious after collapse,82,146,87,103.5,6,1.0,HIGH
+high fever with weakness,46,112,92,100.7,31,0.3,HIGH
+routine checkup request,1,78,100,98.3,35,0.0,LOW
+high fever with weakness,47,125,94,100.1,34,0.3,HIGH
+prescription refill,27,74,98,99.1,6,0.0,LOW
+severe chest pain with sweating,34,128,90,101.5,31,0.7,HIGH
+unconscious after collapse,68,135,86,101.3,16,0.7,HIGH
+high fever with weakness,41,105,88,100.2,33,0.4,HIGH
+high fever with weakness,56,120,92,101.5,16,0.3,HIGH
+persistent vomiting,75,105,88,102.0,19,0.4,HIGH
+mild allergy rash,10,60,97,98.1,10,0.0,LOW
+body ache,5,91,95,98.7,21,0.0,LOW
+moderate chest pain,64,105,92,101.6,7,0.0,HIGH
+fever and cough,64,106,97,100.8,1,0.0,MEDIUM
+severe breathing difficulty,75,127,88,104.1,2,1.0,HIGH
+body ache,60,94,99,99.8,6,0.0,LOW
+minor fracture pain,42,108,94,100.3,31,0.0,MEDIUM
+body ache,59,83,98,98.1,7,0.0,LOW
+minor fracture pain,86,86,92,101.0,5,0.0,MEDIUM
+headache with nausea,47,97,96,100.1,29,0.0,MEDIUM
+prescription refill,42,73,98,98.5,3,0.0,LOW
+moderate chest pain,83,108,90,101.5,6,0.4,HIGH
+shortness of breath,82,122,90,101.4,40,0.7,HIGH
+high fever with weakness,16,111,90,100.9,37,0.7,HIGH
+major trauma from accident,11,129,87,101.4,12,0.7,HIGH
+minor fracture pain,81,107,94,99.5,29,0.0,MEDIUM
+unconscious after collapse,14,123,89,102.6,5,1.0,HIGH
+sore throat,83,72,96,99.2,26,0.0,LOW
+body ache,80,73,99,98.8,24,0.0,LOW
+moderate chest pain,74,106,95,102.2,20,0.3,HIGH
+mild allergy rash,30,85,99,98.7,13,0.0,LOW
+moderate chest pain,45,107,90,100.1,35,0.4,HIGH
+major trauma from accident,87,131,84,103.7,5,1.0,HIGH
+body ache,85,76,98,99.0,34,0.0,LOW
+mild fever,3,80,98,99.7,13,0.0,LOW
+shortness of breath,16,120,93,100.5,14,0.3,HIGH
+sore throat,22,75,99,98.3,14,0.0,LOW
+seizure activity ongoing,76,138,83,104.1,14,1.0,HIGH
+body ache,84,92,96,98.8,30,0.0,LOW
+mild fever,78,83,100,98.2,20,0.0,LOW
+unconscious after collapse,68,147,83,102.4,39,1.0,HIGH
+high fever with weakness,82,125,93,100.1,13,0.3,HIGH
+body ache,72,83,98,98.8,5,0.0,LOW
+high fever with weakness,52,120,89,100.6,37,0.7,HIGH
+seizure activity ongoing,70,128,80,104.3,37,1.0,HIGH
+body ache,4,79,100,99.9,11,0.0,LOW
+persistent vomiting,28,114,92,102.3,6,0.6,HIGH
+prescription refill,41,84,100,98.6,36,0.0,LOW
+shortness of breath,50,111,90,101.3,4,0.7,HIGH
+persistent vomiting,47,113,93,100.6,21,0.3,HIGH
+mild allergy rash,73,77,98,98.6,32,0.0,LOW
+fever and cough,41,96,95,100.9,34,0.0,MEDIUM
+persistent vomiting,5,126,89,101.9,27,0.7,HIGH
+mild fever,32,93,97,99.1,15,0.0,LOW
+seizure activity ongoing,87,143,88,101.6,9,0.7,HIGH
+major trauma from accident,14,130,84,101.6,9,0.7,HIGH
+unconscious after collapse,61,146,89,104.9,26,1.0,HIGH
+prescription refill,89,82,97,98.4,35,0.0,LOW
+routine checkup request,83,85,98,98.8,15,0.0,LOW
+minor fracture pain,74,104,98,101.9,38,0.0,MEDIUM
+moderate chest pain,72,118,89,101.6,2,0.7,HIGH
+severe breathing difficulty,80,137,88,103.0,24,1.0,HIGH
+moderate chest pain,23,114,93,102.5,17,0.6,HIGH
+severe chest pain with sweating,46,144,83,102.0,19,0.7,HIGH
+shortness of breath,49,109,89,102.4,25,0.7,HIGH
+body ache,71,77,96,98.6,25,0.0,LOW
+headache with nausea,59,100,92,100.9,6,0.0,MEDIUM
+persistent vomiting,69,107,95,101.1,10,0.0,HIGH
+mild fever,34,89,98,99.5,4,0.0,LOW
+mild fever,6,85,97,99.3,20,0.0,LOW
+fever and cough,60,101,96,99.4,39,0.0,MEDIUM
+fever and cough,87,99,92,100.3,29,0.0,MEDIUM
+prescription refill,50,79,99,98.3,8,0.0,LOW
+severe breathing difficulty,79,133,88,102.7,13,1.0,HIGH
+high fever with weakness,1,116,92,101.0,38,0.3,HIGH
+sore throat,20,90,97,99.2,7,0.0,LOW
+prescription refill,5,69,100,98.8,36,0.0,LOW
+minor fracture pain,76,85,93,101.1,25,0.0,MEDIUM
+moderate chest pain,23,130,91,102.3,6,1.0,HIGH
+prescription refill,74,68,99,98.1,10,0.0,LOW
+high fever with weakness,76,105,93,102.0,32,0.0,HIGH
+routine checkup request,4,77,97,98.5,18,0.0,LOW
+shortness of breath,77,130,95,100.6,13,0.3,HIGH
+mild fever,4,76,98,99.6,29,0.0,LOW
+routine checkup request,10,68,99,98.9,28,0.0,LOW
+headache with nausea,2,88,98,99.8,38,0.0,MEDIUM
+mild allergy rash,63,63,97,98.3,2,0.0,LOW
+unconscious after collapse,80,123,85,101.9,1,0.7,HIGH
+routine checkup request,2,65,97,99.5,34,0.0,LOW
+body ache,7,75,98,99.9,34,0.0,LOW
+mild fever,85,79,97,99.8,17,0.0,LOW
+headache with nausea,20,89,96,99.5,2,0.0,MEDIUM
+high fever with weakness,90,106,92,100.2,24,0.0,HIGH
+moderate chest pain,62,114,88,100.3,5,0.7,HIGH
+minor fracture pain,74,107,95,100.2,33,0.0,MEDIUM
+moderate chest pain,10,120,94,101.9,14,0.3,HIGH
+body ache,34,94,95,98.6,39,0.0,LOW
+unconscious after collapse,6,139,84,102.2,13,1.0,HIGH
+fever and cough,15,87,92,101.0,29,0.0,MEDIUM
+sore throat,15,90,96,99.9,30,0.0,LOW
+routine checkup request,12,78,99,98.8,4,0.0,LOW
+persistent vomiting,71,118,91,100.2,21,0.7,HIGH
+seizure activity ongoing,32,120,80,103.7,11,1.0,HIGH
+routine checkup request,15,85,100,99.3,16,0.0,LOW
+severe chest pain with sweating,77,129,86,102.5,24,1.0,HIGH
+mild allergy rash,68,72,98,98.5,36,0.0,LOW
+headache with nausea,83,85,98,100.9,6,0.0,MEDIUM
+severe chest pain with sweating,34,127,89,104.8,7,1.0,HIGH
+mild allergy rash,27,64,98,98.2,27,0.0,LOW
+body ache,8,79,98,98.9,4,0.0,LOW
+mild allergy rash,37,60,97,98.8,6,0.0,LOW
+shortness of breath,66,128,93,102.0,16,0.3,HIGH
+severe breathing difficulty,68,138,81,104.7,8,1.0,HIGH
+high fever with weakness,73,121,92,102.4,35,0.6,HIGH
+unconscious after collapse,72,121,84,103.1,30,1.0,HIGH
+moderate chest pain,27,106,93,102.6,32,0.3,HIGH
+severe breathing difficulty,74,125,80,101.6,12,0.7,HIGH
+headache with nausea,88,98,97,99.7,36,0.0,MEDIUM
+fever and cough,67,94,92,100.8,37,0.0,MEDIUM
+headache with nausea,4,85,94,99.7,3,0.0,MEDIUM
+mild fever,62,86,98,98.8,7,0.0,LOW
+sore throat,68,91,96,99.8,5,0.0,LOW
+moderate chest pain,71,107,89,100.5,12,0.4,HIGH
+mild fever,67,81,99,99.5,38,0.0,LOW
+fever and cough,34,95,97,101.1,33,0.0,MEDIUM
+prescription refill,1,77,98,98.8,10,0.0,LOW
+high fever with weakness,1,129,91,100.7,36,0.7,HIGH
+severe chest pain with sweating,81,128,80,104.5,32,1.0,HIGH
+unconscious after collapse,72,123,88,101.7,27,0.7,HIGH
+minor fracture pain,55,99,97,102.0,29,0.0,MEDIUM
+routine checkup request,59,64,100,99.2,15,0.0,LOW
+seizure activity ongoing,60,121,82,101.6,22,0.7,HIGH
+headache with nausea,84,91,97,99.4,19,0.0,MEDIUM
+severe chest pain with sweating,78,128,88,103.4,32,1.0,HIGH
+seizure activity ongoing,35,128,83,101.5,8,0.7,HIGH
+headache with nausea,7,110,93,100.5,19,0.0,MEDIUM
+major trauma from accident,20,149,87,104.6,21,1.0,HIGH
+fever and cough,62,102,93,99.3,20,0.0,MEDIUM
+mild fever,78,80,98,98.2,18,0.0,LOW
+body ache,73,72,96,98.2,40,0.0,LOW
+severe breathing difficulty,74,123,80,102.3,5,1.0,HIGH
+prescription refill,69,78,97,98.6,36,0.0,LOW
+mild fever,1,82,97,99.7,34,0.0,LOW
+sore throat,82,77,97,99.2,32,0.0,LOW
+mild fever,27,85,100,98.0,27,0.0,LOW
+shortness of breath,57,105,92,100.2,37,0.0,HIGH
+body ache,16,87,96,99.2,39,0.0,LOW
+routine checkup request,52,75,98,99.3,25,0.0,LOW
+moderate chest pain,89,128,91,102.4,24,1.0,HIGH
+headache with nausea,86,103,92,99.1,19,0.0,MEDIUM
+prescription refill,74,82,97,98.6,36,0.0,LOW
+headache with nausea,47,103,95,101.7,21,0.0,MEDIUM
+minor fracture pain,21,99,98,100.7,34,0.0,MEDIUM
+moderate chest pain,31,125,89,102.0,24,0.7,HIGH
+headache with nausea,42,104,93,99.5,28,0.0,MEDIUM
+prescription refill,3,73,98,98.5,23,0.0,LOW
+sore throat,49,83,100,99.9,26,0.0,LOW
+moderate chest pain,31,120,93,100.5,25,0.3,HIGH
+moderate chest pain,35,121,88,102.2,19,1.0,HIGH
+prescription refill,69,77,97,98.5,31,0.0,LOW
+mild fever,14,75,97,98.3,6,0.0,LOW
+shortness of breath,90,113,95,102.8,12,0.6,HIGH
+minor fracture pain,58,105,96,101.3,15,0.0,MEDIUM
+prescription refill,20,64,97,99.0,8,0.0,LOW
+seizure activity ongoing,30,129,80,104.6,3,1.0,HIGH
+unconscious after collapse,60,138,89,101.7,13,0.7,HIGH
+prescription refill,34,67,97,98.9,38,0.0,LOW
+mild allergy rash,85,83,97,99.0,37,0.0,LOW
+minor fracture pain,46,94,93,101.5,32,0.0,MEDIUM
+major trauma from accident,9,126,82,102.8,22,1.0,HIGH
+sore throat,46,88,98,98.5,10,0.0,LOW
+moderate chest pain,27,116,92,102.6,4,0.6,HIGH
+unconscious after collapse,77,124,81,104.9,10,1.0,HIGH
+shortness of breath,46,116,88,100.0,31,0.7,HIGH
+severe breathing difficulty,55,123,85,104.8,36,1.0,HIGH
+shortness of breath,14,114,90,100.0,19,0.7,HIGH
+severe breathing difficulty,12,147,82,103.3,21,1.0,HIGH
+shortness of breath,11,117,91,101.8,5,0.7,HIGH
+routine checkup request,46,66,97,98.4,15,0.0,LOW
+major trauma from accident,79,145,83,103.5,32,1.0,HIGH
+high fever with weakness,11,123,95,102.7,23,0.6,HIGH
+persistent vomiting,62,128,88,101.1,38,0.7,HIGH
+prescription refill,44,69,98,98.8,39,0.0,LOW
+mild fever,59,70,95,98.5,5,0.0,LOW
+fever and cough,55,88,95,99.2,6,0.0,MEDIUM
+severe breathing difficulty,86,136,88,102.1,23,1.0,HIGH
+fever and cough,4,101,92,100.1,39,0.0,MEDIUM
+moderate chest pain,49,130,90,101.9,29,0.7,HIGH
+seizure activity ongoing,67,134,89,104.2,13,1.0,HIGH
+prescription refill,60,84,100,99.2,36,0.0,LOW
+mild fever,17,83,95,99.7,1,0.0,LOW
+sore throat,86,90,100,99.1,36,0.0,LOW
+fever and cough,60,93,97,100.7,21,0.0,MEDIUM
+shortness of breath,85,124,89,100.4,21,0.7,HIGH
+headache with nausea,41,93,98,99.5,23,0.0,MEDIUM
+fever and cough,2,103,98,99.4,19,0.0,MEDIUM
+mild allergy rash,7,73,99,98.9,17,0.0,LOW
+unconscious after collapse,8,125,87,102.9,12,1.0,HIGH
+high fever with weakness,17,121,93,102.6,11,0.6,HIGH
+major trauma from accident,83,138,86,101.4,7,0.7,HIGH
+routine checkup request,3,82,100,98.8,20,0.0,LOW
+fever and cough,29,109,97,99.1,5,0.0,MEDIUM
+shortness of breath,25,121,89,101.9,36,0.7,HIGH
+severe chest pain with sweating,27,121,86,104.2,4,1.0,HIGH
+sore throat,6,85,100,99.8,22,0.0,LOW
+routine checkup request,3,66,100,99.0,38,0.0,LOW
+routine checkup request,53,69,99,98.6,31,0.0,LOW
+major trauma from accident,52,130,85,101.9,38,0.7,HIGH
+unconscious after collapse,32,144,82,103.0,8,1.0,HIGH
+minor fracture pain,39,104,92,100.9,21,0.0,MEDIUM
+body ache,58,79,95,99.1,8,0.0,LOW
+severe chest pain with sweating,9,120,83,102.5,22,1.0,HIGH
+headache with nausea,49,93,95,101.9,32,0.0,MEDIUM
+body ache,2,91,97,98.3,16,0.0,LOW
+sore throat,34,95,98,98.7,9,0.0,LOW
+major trauma from accident,4,128,86,105.0,11,1.0,HIGH
+fever and cough,43,101,97,100.7,6,0.0,MEDIUM
+fever and cough,9,98,92,101.9,21,0.0,MEDIUM
+body ache,89,87,96,99.7,3,0.0,LOW
+shortness of breath,4,117,89,101.5,1,0.7,HIGH
+major trauma from accident,14,143,85,104.3,22,1.0,HIGH
+high fever with weakness,7,110,89,102.6,17,0.7,HIGH
+prescription refill,85,84,98,99.1,35,0.0,LOW
+severe chest pain with sweating,2,131,86,102.8,24,1.0,HIGH
+fever and cough,33,89,96,101.9,19,0.0,MEDIUM
+sore throat,55,79,96,98.1,39,0.0,LOW
+severe chest pain with sweating,33,139,83,105.0,37,1.0,HIGH
+body ache,58,79,95,98.9,37,0.0,LOW
+severe chest pain with sweating,42,137,83,103.7,3,1.0,HIGH
+routine checkup request,29,77,100,98.1,27,0.0,LOW
+moderate chest pain,78,108,94,101.8,30,0.0,HIGH
+prescription refill,39,71,98,98.1,38,0.0,LOW
+headache with nausea,77,96,98,99.9,27,0.0,MEDIUM
+seizure activity ongoing,29,130,87,102.7,6,1.0,HIGH
+mild fever,65,81,96,98.8,35,0.0,LOW
+prescription refill,61,74,99,98.5,26,0.0,LOW
+headache with nausea,65,108,92,101.5,20,0.0,MEDIUM
+fever and cough,81,88,96,101.9,21,0.0,MEDIUM
+routine checkup request,6,78,100,99.3,18,0.0,LOW
+headache with nausea,31,87,97,99.3,31,0.0,MEDIUM
+major trauma from accident,65,140,87,102.0,11,0.7,HIGH
+prescription refill,52,74,100,99.2,37,0.0,LOW
+persistent vomiting,41,120,90,100.6,9,0.7,HIGH
+moderate chest pain,21,106,93,100.3,2,0.0,HIGH
+routine checkup request,38,68,100,98.4,6,0.0,LOW
+fever and cough,34,104,94,99.2,6,0.0,MEDIUM
+persistent vomiting,8,106,89,102.8,2,0.7,HIGH
+mild fever,54,78,99,98.4,15,0.0,LOW
+seizure activity ongoing,36,126,82,104.4,4,1.0,HIGH
+severe chest pain with sweating,77,142,82,102.8,5,1.0,HIGH
+prescription refill,72,63,99,98.3,29,0.0,LOW
+severe breathing difficulty,85,149,88,102.0,30,0.7,HIGH
+major trauma from accident,26,146,81,102.8,30,1.0,HIGH
+mild allergy rash,69,75,100,99.2,38,0.0,LOW
+unconscious after collapse,47,134,88,102.2,29,1.0,HIGH
+mild allergy rash,89,67,99,98.9,36,0.0,LOW
+sore throat,1,74,98,99.2,23,0.0,LOW
+major trauma from accident,8,139,82,101.1,4,0.7,HIGH
+seizure activity ongoing,26,127,86,102.1,13,1.0,HIGH
+major trauma from accident,15,125,84,104.3,22,1.0,HIGH
+moderate chest pain,34,119,92,102.3,8,0.6,HIGH
+high fever with weakness,75,129,92,102.0,6,0.3,HIGH
+mild allergy rash,39,75,100,98.8,8,0.0,LOW
+body ache,1,94,99,98.4,30,0.0,LOW
+headache with nausea,85,103,93,101.3,31,0.0,MEDIUM
+body ache,61,74,96,98.1,20,0.0,LOW
+persistent vomiting,70,130,91,101.4,35,0.7,HIGH
+mild allergy rash,20,60,97,98.5,27,0.0,LOW
+headache with nausea,63,87,98,101.1,19,0.0,MEDIUM
+routine checkup request,67,64,100,98.7,34,0.0,LOW
+headache with nausea,42,102,94,100.2,20,0.0,MEDIUM
+seizure activity ongoing,5,141,85,103.1,14,1.0,HIGH
+prescription refill,87,71,100,99.0,17,0.0,LOW
+mild fever,3,83,100,98.5,25,0.0,LOW
+prescription refill,78,77,99,98.2,31,0.0,LOW
+seizure activity ongoing,31,131,82,104.0,34,1.0,HIGH
+fever and cough,52,110,96,101.5,16,0.0,MEDIUM
+severe chest pain with sweating,58,126,82,104.9,29,1.0,HIGH
+prescription refill,1,82,100,99.3,18,0.0,LOW
+high fever with weakness,20,112,88,102.2,9,1.0,HIGH
+sore throat,7,70,99,98.4,12,0.0,LOW
+routine checkup request,3,78,98,98.2,6,0.0,LOW
+sore throat,26,76,95,99.7,6,0.0,LOW
+sore throat,35,92,96,98.6,32,0.0,LOW
+mild fever,86,72,98,98.2,25,0.0,LOW
+persistent vomiting,31,112,95,101.7,29,0.3,HIGH
+severe breathing difficulty,29,149,84,102.8,18,1.0,HIGH
+moderate chest pain,9,130,91,101.4,35,0.7,HIGH
+fever and cough,28,86,98,101.8,34,0.0,MEDIUM
+mild allergy rash,46,69,97,98.3,17,0.0,LOW
+minor fracture pain,77,96,92,101.6,3,0.0,MEDIUM
+major trauma from accident,64,123,88,104.9,4,1.0,HIGH
+persistent vomiting,57,125,88,100.2,40,0.7,HIGH
+sore throat,51,94,100,98.4,39,0.0,LOW
+mild fever,8,93,96,98.8,19,0.0,LOW
+high fever with weakness,75,105,95,100.5,35,0.0,HIGH
+minor fracture pain,85,105,93,99.1,20,0.0,MEDIUM
+mild allergy rash,20,67,99,98.6,8,0.0,LOW
+unconscious after collapse,8,136,82,103.2,16,1.0,HIGH
+routine checkup request,86,76,98,98.9,33,0.0,LOW
+prescription refill,81,77,97,98.4,10,0.0,LOW
+sore throat,22,77,99,99.0,11,0.0,LOW
+fever and cough,62,107,98,100.4,37,0.0,MEDIUM
+major trauma from accident,53,143,84,102.7,1,1.0,HIGH
+routine checkup request,9,67,98,98.8,9,0.0,LOW
+mild fever,34,75,96,98.3,17,0.0,LOW
+high fever with weakness,17,114,88,100.0,2,0.7,HIGH
+mild allergy rash,7,66,99,98.4,12,0.0,LOW
+moderate chest pain,68,112,92,101.3,21,0.3,HIGH
+minor fracture pain,39,104,92,99.4,8,0.0,MEDIUM
+body ache,75,93,97,99.2,33,0.0,LOW
+routine checkup request,42,85,97,99.1,10,0.0,LOW
+moderate chest pain,90,128,88,101.5,21,0.7,HIGH
+fever and cough,20,108,94,99.3,25,0.0,MEDIUM
+prescription refill,55,84,99,98.3,24,0.0,LOW
+major trauma from accident,39,142,81,104.6,2,1.0,HIGH
+headache with nausea,12,95,97,100.6,25,0.0,MEDIUM
+major trauma from accident,3,121,86,101.9,33,0.7,HIGH
+persistent vomiting,28,114,89,100.4,28,0.7,HIGH
+persistent vomiting,28,113,90,102.6,22,1.0,HIGH
+fever and cough,69,106,95,100.2,3,0.0,MEDIUM
+severe breathing difficulty,25,138,83,102.7,9,1.0,HIGH
+body ache,86,93,100,99.2,8,0.0,LOW
+fever and cough,11,104,96,101.2,17,0.0,MEDIUM
+minor fracture pain,59,93,93,101.9,8,0.0,MEDIUM
+mild allergy rash,59,64,98,98.5,16,0.0,LOW
+severe breathing difficulty,70,142,84,104.6,13,1.0,HIGH
+unconscious after collapse,44,146,89,101.4,13,0.7,HIGH
+seizure activity ongoing,65,141,87,103.4,37,1.0,HIGH
+headache with nausea,87,97,96,99.3,30,0.0,MEDIUM
+seizure activity ongoing,45,133,88,101.0,9,0.7,HIGH
+minor fracture pain,45,94,97,101.9,6,0.0,MEDIUM
+fever and cough,64,101,98,100.3,15,0.0,MEDIUM
+sore throat,80,77,98,99.2,16,0.0,LOW
+shortness of breath,59,127,90,101.7,15,0.7,HIGH
+prescription refill,43,85,98,99.0,4,0.0,LOW
+prescription refill,80,85,99,98.7,33,0.0,LOW
+body ache,87,75,97,99.7,30,0.0,LOW
+shortness of breath,79,110,91,100.7,15,0.4,HIGH
+seizure activity ongoing,10,123,83,105.0,31,1.0,HIGH
+headache with nausea,51,102,92,99.9,14,0.0,MEDIUM
+moderate chest pain,6,124,90,100.6,6,0.7,HIGH
+body ache,20,93,96,98.7,14,0.0,LOW
+sore throat,49,91,99,99.0,12,0.0,LOW
+sore throat,18,70,95,98.5,37,0.0,LOW
+major trauma from accident,63,141,83,103.2,1,1.0,HIGH
+fever and cough,2,88,95,101.8,32,0.0,MEDIUM
+high fever with weakness,80,108,94,101.5,20,0.0,HIGH
+prescription refill,3,61,99,99.1,17,0.0,LOW
+shortness of breath,54,105,94,101.1,20,0.0,HIGH
+moderate chest pain,17,116,89,101.7,2,0.7,HIGH
+fever and cough,73,98,96,99.4,32,0.0,MEDIUM
+unconscious after collapse,44,135,83,101.0,1,0.7,HIGH
+persistent vomiting,90,126,88,102.9,10,1.0,HIGH
+high fever with weakness,34,116,91,100.2,38,0.7,HIGH
+mild allergy rash,46,63,99,98.2,2,0.0,LOW
+severe breathing difficulty,8,142,85,101.4,27,0.7,HIGH
+mild allergy rash,32,85,100,99.4,17,0.0,LOW
+shortness of breath,60,108,89,102.4,13,0.7,HIGH
+high fever with weakness,80,130,88,102.1,19,1.0,HIGH
+severe chest pain with sweating,62,141,82,104.6,7,1.0,HIGH
+headache with nausea,30,102,98,99.1,21,0.0,MEDIUM
+prescription refill,81,76,99,98.9,34,0.0,LOW
+seizure activity ongoing,16,147,80,104.7,32,1.0,HIGH
+severe breathing difficulty,19,136,81,104.3,1,1.0,HIGH
+prescription refill,15,81,98,99.3,1,0.0,LOW
+routine checkup request,1,82,97,98.4,14,0.0,LOW
+persistent vomiting,72,110,93,102.0,21,0.0,HIGH
+high fever with weakness,49,108,89,100.6,23,0.4,HIGH
+prescription refill,83,78,98,98.8,37,0.0,LOW
+persistent vomiting,20,120,89,102.1,40,1.0,HIGH
+mild allergy rash,83,74,97,98.6,16,0.0,LOW
+routine checkup request,77,77,100,99.0,6,0.0,LOW
+major trauma from accident,5,142,81,102.3,39,1.0,HIGH
+high fever with weakness,35,123,91,101.5,8,0.7,HIGH
+mild allergy rash,67,75,97,98.2,32,0.0,LOW
+shortness of breath,83,107,90,100.5,20,0.4,HIGH
+severe breathing difficulty,27,147,84,102.2,38,1.0,HIGH
+moderate chest pain,60,109,88,100.9,28,0.4,HIGH
+routine checkup request,28,77,97,98.8,10,0.0,LOW
+major trauma from accident,78,129,88,102.0,30,0.7,HIGH
+high fever with weakness,22,123,95,101.0,35,0.3,HIGH
+major trauma from accident,60,148,90,103.8,7,1.0,HIGH
+routine checkup request,64,81,99,99.1,30,0.0,LOW
+prescription refill,49,81,98,98.8,24,0.0,LOW
+routine checkup request,12,80,100,99.1,12,0.0,LOW
+seizure activity ongoing,49,131,81,104.3,10,1.0,HIGH
+routine checkup request,37,83,100,99.1,2,0.0,LOW
+unconscious after collapse,67,148,81,101.0,29,0.7,HIGH
+body ache,29,90,100,98.4,5,0.0,LOW
+body ache,43,72,96,99.4,21,0.0,LOW
+headache with nausea,34,110,94,101.6,15,0.0,MEDIUM
+moderate chest pain,69,115,93,101.8,14,0.3,HIGH
+seizure activity ongoing,5,149,83,101.4,40,0.7,HIGH
+routine checkup request,25,76,97,99.4,25,0.0,LOW
+mild fever,83,86,97,99.7,3,0.0,LOW
+seizure activity ongoing,65,120,81,103.0,20,1.0,HIGH
+prescription refill,9,82,99,99.4,40,0.0,LOW
+minor fracture pain,60,110,93,99.1,23,0.0,MEDIUM
+fever and cough,57,88,94,100.0,31,0.0,MEDIUM
+severe chest pain with sweating,83,134,84,102.3,33,1.0,HIGH
+major trauma from accident,53,124,89,103.4,37,1.0,HIGH
+sore throat,21,83,100,98.5,6,0.0,LOW
+headache with nausea,18,109,98,100.9,23,0.0,MEDIUM
+severe breathing difficulty,15,145,81,104.8,23,1.0,HIGH
+prescription refill,53,65,100,98.7,14,0.0,LOW
+mild allergy rash,36,81,97,98.1,29,0.0,LOW
+seizure activity ongoing,29,129,80,102.9,13,1.0,HIGH
+severe chest pain with sweating,60,123,84,102.9,17,1.0,HIGH
+sore throat,87,79,100,98.8,31,0.0,LOW
+fever and cough,74,90,96,101.2,29,0.0,MEDIUM
+body ache,43,90,100,98.3,20,0.0,LOW
+body ache,41,91,98,98.1,28,0.0,LOW
+body ache,52,95,100,98.4,36,0.0,LOW
+routine checkup request,36,79,97,98.5,25,0.0,LOW
+seizure activity ongoing,53,134,83,103.8,33,1.0,HIGH
+mild allergy rash,22,85,99,98.4,25,0.0,LOW
+routine checkup request,59,62,100,98.3,13,0.0,LOW
+moderate chest pain,68,112,94,102.4,19,0.6,HIGH
+mild allergy rash,52,84,97,98.4,18,0.0,LOW
+headache with nausea,50,85,98,99.8,16,0.0,MEDIUM
+seizure activity ongoing,85,147,81,102.8,19,1.0,HIGH
+major trauma from accident,53,126,80,103.2,33,1.0,HIGH
+severe chest pain with sweating,58,143,81,104.0,17,1.0,HIGH
+routine checkup request,73,68,98,99.4,40,0.0,LOW
+routine checkup request,30,72,98,98.4,35,0.0,LOW
+severe breathing difficulty,9,142,88,102.9,33,1.0,HIGH
+high fever with weakness,25,116,91,100.4,34,0.7,HIGH
+mild fever,53,73,95,98.4,38,0.0,LOW
+high fever with weakness,3,125,94,100.8,25,0.3,HIGH
+routine checkup request,24,66,98,99.3,3,0.0,LOW
+seizure activity ongoing,61,120,80,102.0,36,0.7,HIGH
+severe breathing difficulty,6,144,82,103.4,35,1.0,HIGH
+prescription refill,77,61,98,99.1,20,0.0,LOW
+major trauma from accident,10,142,88,102.4,15,1.0,HIGH
+mild fever,69,92,98,98.4,35,0.0,LOW
+major trauma from accident,55,127,80,102.4,28,1.0,HIGH
+moderate chest pain,57,106,95,101.6,22,0.0,HIGH
+unconscious after collapse,64,136,88,104.8,30,1.0,HIGH
+mild allergy rash,60,76,98,98.2,14,0.0,LOW
+prescription refill,17,85,100,99.3,9,0.0,LOW
+minor fracture pain,62,95,94,100.2,22,0.0,MEDIUM
+fever and cough,31,89,95,100.7,2,0.0,MEDIUM
+fever and cough,71,89,96,100.3,19,0.0,MEDIUM
+fever and cough,75,102,96,100.1,38,0.0,MEDIUM
+seizure activity ongoing,86,122,85,102.5,26,1.0,HIGH
+headache with nausea,56,89,95,99.9,38,0.0,MEDIUM
+moderate chest pain,79,123,94,102.4,17,0.6,HIGH
+unconscious after collapse,18,121,82,104.3,30,1.0,HIGH
+mild fever,79,93,99,99.5,30,0.0,LOW
+sore throat,44,87,100,99.8,33,0.0,LOW
+high fever with weakness,55,114,94,102.5,12,0.6,HIGH
+moderate chest pain,62,121,89,100.9,20,0.7,HIGH
+routine checkup request,29,78,98,99.3,20,0.0,LOW
+headache with nausea,47,88,97,99.3,32,0.0,MEDIUM
+fever and cough,50,105,92,101.4,36,0.0,MEDIUM
+seizure activity ongoing,62,132,87,102.6,34,1.0,HIGH
+routine checkup request,85,85,100,98.5,31,0.0,LOW
+persistent vomiting,56,113,94,100.9,6,0.3,HIGH
+high fever with weakness,14,122,90,102.3,7,1.0,HIGH
+high fever with weakness,50,128,89,102.8,1,1.0,HIGH
+mild allergy rash,47,79,99,98.4,4,0.0,LOW
+major trauma from accident,11,144,83,104.8,35,1.0,HIGH
+sore throat,66,93,100,98.1,9,0.0,LOW
+high fever with weakness,85,120,91,101.4,9,0.7,HIGH
+minor fracture pain,14,91,98,101.9,35,0.0,MEDIUM
+severe chest pain with sweating,21,141,87,102.2,29,1.0,HIGH
+unconscious after collapse,33,133,82,103.4,32,1.0,HIGH
+routine checkup request,86,79,100,98.3,36,0.0,LOW
+fever and cough,1,104,92,99.5,5,0.0,MEDIUM
+headache with nausea,70,96,92,100.2,7,0.0,MEDIUM
+severe chest pain with sweating,78,143,81,101.6,11,0.7,HIGH
+routine checkup request,29,62,97,99.4,38,0.0,LOW
+shortness of breath,41,127,92,102.8,7,0.6,HIGH
+persistent vomiting,67,129,89,102.7,38,1.0,HIGH
+body ache,61,94,95,99.3,16,0.0,LOW
+minor fracture pain,17,109,98,100.9,36,0.0,MEDIUM
+sore throat,89,89,100,99.2,10,0.0,LOW
+fever and cough,80,95,94,100.1,4,0.0,MEDIUM
+sore throat,89,71,99,98.6,4,0.0,LOW
+headache with nausea,68,108,95,99.6,26,0.0,MEDIUM
+seizure activity ongoing,53,123,84,102.4,13,1.0,HIGH
+shortness of breath,23,123,95,100.4,23,0.3,HIGH
+prescription refill,43,60,100,99.0,9,0.0,LOW
+unconscious after collapse,54,136,88,102.5,5,1.0,HIGH
+high fever with weakness,71,113,92,100.0,3,0.3,HIGH
+unconscious after collapse,61,150,90,104.0,1,1.0,HIGH
+body ache,12,92,98,98.6,33,0.0,LOW
+moderate chest pain,3,113,91,100.3,28,0.7,HIGH
+high fever with weakness,59,122,88,102.3,35,1.0,HIGH
+mild allergy rash,29,83,97,99.5,40,0.0,LOW
+high fever with weakness,77,123,88,101.0,16,0.7,HIGH
+sore throat,56,88,97,98.8,18,0.0,LOW
+severe breathing difficulty,9,126,85,103.5,34,1.0,HIGH
+sore throat,74,80,100,98.2,35,0.0,LOW
+major trauma from accident,47,150,82,104.8,34,1.0,HIGH
+seizure activity ongoing,52,141,87,101.8,34,0.7,HIGH
+mild fever,19,74,97,98.3,9,0.0,LOW
+persistent vomiting,57,105,95,102.8,13,0.3,HIGH
+routine checkup request,41,61,97,98.2,19,0.0,LOW
+persistent vomiting,36,126,93,102.0,14,0.3,HIGH
+mild fever,50,88,100,99.1,39,0.0,LOW
+severe breathing difficulty,19,150,86,103.5,20,1.0,HIGH
+persistent vomiting,74,106,92,101.3,3,0.0,HIGH
+prescription refill,80,84,97,98.4,40,0.0,LOW
+sore throat,60,71,99,99.0,14,0.0,LOW
+unconscious after collapse,4,150,86,102.1,38,1.0,HIGH
+moderate chest pain,35,109,94,101.8,21,0.0,HIGH
+mild fever,40,71,100,98.6,8,0.0,LOW
+seizure activity ongoing,21,128,82,104.7,10,1.0,HIGH
+routine checkup request,42,84,98,98.0,22,0.0,LOW
+sore throat,64,82,99,98.3,3,0.0,LOW
+severe breathing difficulty,84,121,88,103.4,32,1.0,HIGH
+high fever with weakness,13,117,91,102.5,37,1.0,HIGH
+severe chest pain with sweating,50,126,89,103.9,10,1.0,HIGH
+mild fever,81,94,98,99.1,24,0.0,LOW
+unconscious after collapse,86,125,88,103.6,36,1.0,HIGH
+mild fever,22,89,97,99.2,8,0.0,LOW
+headache with nausea,62,107,98,101.2,23,0.0,MEDIUM
+seizure activity ongoing,1,149,87,104.9,4,1.0,HIGH
+body ache,64,71,98,99.2,36,0.0,LOW
+headache with nausea,24,99,95,99.1,25,0.0,MEDIUM
+persistent vomiting,1,129,88,101.8,24,0.7,HIGH
+sore throat,40,74,97,98.3,12,0.0,LOW
+routine checkup request,25,81,100,99.0,31,0.0,LOW
+body ache,43,86,96,99.8,40,0.0,LOW
+body ache,49,82,95,99.9,25,0.0,LOW
+sore throat,50,79,100,99.4,6,0.0,LOW
+sore throat,11,86,95,98.6,4,0.0,LOW
+unconscious after collapse,67,126,85,101.2,6,0.7,HIGH
+high fever with weakness,39,118,89,100.7,10,0.7,HIGH
+moderate chest pain,46,124,89,101.1,23,0.7,HIGH
+shortness of breath,20,115,90,101.2,38,0.7,HIGH
+severe chest pain with sweating,72,148,87,102.6,32,1.0,HIGH
+unconscious after collapse,71,142,90,102.9,25,1.0,HIGH
+mild allergy rash,57,85,98,99.5,24,0.0,LOW
+severe chest pain with sweating,47,122,90,102.4,33,1.0,HIGH
+minor fracture pain,15,95,92,101.0,3,0.0,MEDIUM
+prescription refill,20,80,99,98.8,28,0.0,LOW
+unconscious after collapse,18,121,83,101.9,24,0.7,HIGH
+mild fever,48,79,99,98.1,12,0.0,LOW
+mild allergy rash,35,76,97,98.7,3,0.0,LOW
+prescription refill,59,74,100,98.7,4,0.0,LOW
+minor fracture pain,21,104,98,101.8,20,0.0,MEDIUM
+minor fracture pain,10,94,97,99.2,19,0.0,MEDIUM
+shortness of breath,83,125,94,100.4,23,0.3,HIGH
+seizure activity ongoing,81,127,86,101.5,15,0.7,HIGH
+prescription refill,3,74,99,98.6,32,0.0,LOW
+mild allergy rash,45,83,97,99.4,27,0.0,LOW
+routine checkup request,15,60,100,99.4,30,0.0,LOW
+mild fever,30,75,95,98.4,26,0.0,LOW
+headache with nausea,58,102,93,100.2,34,0.0,MEDIUM
+minor fracture pain,7,86,92,100.7,4,0.0,MEDIUM
+seizure activity ongoing,90,141,89,103.3,21,1.0,HIGH
+body ache,49,72,97,99.6,35,0.0,LOW
+minor fracture pain,81,88,92,99.2,14,0.0,MEDIUM
+fever and cough,39,91,93,101.3,25,0.0,MEDIUM
+prescription refill,43,75,98,99.0,17,0.0,LOW
+persistent vomiting,77,105,90,102.5,8,0.7,HIGH
+sore throat,42,90,99,98.3,39,0.0,LOW
+shortness of breath,16,123,91,101.2,20,0.7,HIGH
+major trauma from accident,71,124,81,101.3,6,0.7,HIGH
+routine checkup request,82,81,98,99.0,21,0.0,LOW
+minor fracture pain,75,101,92,101.0,18,0.0,MEDIUM
+fever and cough,26,99,94,101.1,39,0.0,MEDIUM
+sore throat,59,82,100,98.9,9,0.0,LOW
+mild allergy rash,8,81,97,98.2,20,0.0,LOW
+seizure activity ongoing,24,130,84,104.7,19,1.0,HIGH
+severe breathing difficulty,31,129,89,102.9,17,1.0,HIGH
+fever and cough,59,110,92,101.6,23,0.0,MEDIUM
+headache with nausea,65,108,93,101.7,28,0.0,MEDIUM
+fever and cough,23,87,93,101.8,20,0.0,MEDIUM
+mild allergy rash,27,73,98,98.7,1,0.0,LOW
+high fever with weakness,11,110,88,101.4,3,0.4,HIGH
+body ache,46,86,96,98.9,25,0.0,LOW
+high fever with weakness,19,126,91,101.9,28,0.7,HIGH
+body ache,37,77,95,99.8,29,0.0,LOW
+severe breathing difficulty,14,120,88,102.3,20,1.0,HIGH
+unconscious after collapse,80,148,87,101.9,26,0.7,HIGH
+mild fever,16,78,97,99.2,9,0.0,LOW
+fever and cough,90,98,95,101.8,21,0.0,MEDIUM
+severe chest pain with sweating,14,131,83,102.5,31,1.0,HIGH
+shortness of breath,30,119,91,100.7,36,0.7,HIGH
+mild fever,11,89,97,99.1,37,0.0,LOW
+minor fracture pain,48,104,92,101.4,30,0.0,MEDIUM
+mild allergy rash,41,75,99,98.7,6,0.0,LOW
+mild fever,61,85,98,99.5,24,0.0,LOW
+prescription refill,67,76,100,98.5,21,0.0,LOW
+minor fracture pain,61,106,95,100.4,2,0.0,MEDIUM
+sore throat,57,73,100,99.3,5,0.0,LOW
+body ache,17,89,99,98.2,36,0.0,LOW
+moderate chest pain,6,111,90,101.6,33,0.7,HIGH
+headache with nausea,32,88,97,101.9,10,0.0,MEDIUM
+routine checkup request,2,84,97,98.0,33,0.0,LOW
+routine checkup request,79,82,97,99.2,24,0.0,LOW
+persistent vomiting,8,126,95,100.2,31,0.3,HIGH
+shortness of breath,59,110,89,101.2,30,0.4,HIGH
+unconscious after collapse,75,142,84,103.4,32,1.0,HIGH
+high fever with weakness,46,125,93,100.2,28,0.3,HIGH
+body ache,23,85,96,99.4,32,0.0,LOW
+persistent vomiting,38,126,93,100.7,13,0.3,HIGH
+mild allergy rash,19,71,100,98.9,29,0.0,LOW
+mild fever,12,75,96,99.1,17,0.0,LOW
+mild fever,57,74,95,99.6,15,0.0,LOW
+high fever with weakness,9,122,94,101.7,29,0.3,HIGH
+mild fever,46,85,97,98.5,29,0.0,LOW
+mild fever,26,79,100,99.4,3,0.0,LOW
+high fever with weakness,10,116,94,101.7,1,0.3,HIGH
+minor fracture pain,24,96,93,101.0,12,0.0,MEDIUM
+persistent vomiting,3,125,95,100.1,12,0.3,HIGH
+shortness of breath,43,113,94,100.2,31,0.3,HIGH
+moderate chest pain,47,124,95,101.1,26,0.3,HIGH
+headache with nausea,57,88,96,101.0,16,0.0,MEDIUM
+severe chest pain with sweating,24,137,90,101.8,23,0.7,HIGH
+body ache,71,83,96,98.8,25,0.0,LOW
+shortness of breath,57,117,89,102.4,7,1.0,HIGH
+routine checkup request,37,84,98,98.4,11,0.0,LOW
+body ache,71,91,99,99.6,31,0.0,LOW
+headache with nausea,1,96,93,99.2,7,0.0,MEDIUM
+mild allergy rash,13,78,99,98.9,30,0.0,LOW
+persistent vomiting,61,121,93,102.3,27,0.6,HIGH
+mild fever,44,77,100,98.0,27,0.0,LOW
+fever and cough,13,92,93,100.2,30,0.0,MEDIUM
+minor fracture pain,67,109,92,100.3,18,0.0,MEDIUM
+fever and cough,25,88,92,100.6,25,0.0,MEDIUM
+moderate chest pain,15,116,92,100.4,18,0.3,HIGH
+minor fracture pain,90,91,95,101.6,36,0.0,MEDIUM
+fever and cough,52,106,98,101.5,19,0.0,MEDIUM
+high fever with weakness,39,130,95,100.3,22,0.3,HIGH
+shortness of breath,51,128,88,102.1,8,1.0,HIGH
+routine checkup request,56,69,99,98.1,14,0.0,LOW
+fever and cough,63,92,93,101.6,20,0.0,MEDIUM
+high fever with weakness,50,111,94,100.5,32,0.3,HIGH
+severe chest pain with sweating,77,139,87,101.3,38,0.7,HIGH
+fever and cough,33,94,98,101.3,1,0.0,MEDIUM
+headache with nausea,9,86,96,99.4,27,0.0,MEDIUM
+mild fever,26,88,100,99.3,13,0.0,LOW
+mild fever,35,72,98,98.2,34,0.0,LOW
+minor fracture pain,70,88,93,99.8,30,0.0,MEDIUM
+severe chest pain with sweating,59,150,82,101.3,17,0.7,HIGH
+shortness of breath,39,108,94,100.7,2,0.0,HIGH
+body ache,17,73,98,98.8,13,0.0,LOW
+sore throat,88,74,99,99.8,32,0.0,LOW
+minor fracture pain,28,110,97,99.4,21,0.0,MEDIUM
+mild fever,10,92,100,98.9,25,0.0,LOW
+sore throat,19,80,98,98.2,18,0.0,LOW
+prescription refill,79,84,97,99.1,32,0.0,LOW
+moderate chest pain,52,124,92,102.6,20,0.6,HIGH
+severe breathing difficulty,14,122,85,103.0,8,1.0,HIGH
+fever and cough,51,108,97,100.0,3,0.0,MEDIUM
+persistent vomiting,11,123,93,100.2,35,0.3,HIGH
+fever and cough,1,86,92,100.2,6,0.0,MEDIUM
+body ache,5,81,96,99.2,36,0.0,LOW
+mild allergy rash,2,73,99,99.3,11,0.0,LOW
+mild allergy rash,10,61,99,98.0,36,0.0,LOW
+fever and cough,53,108,98,101.9,27,0.0,MEDIUM
+minor fracture pain,2,102,93,100.4,36,0.0,MEDIUM
+high fever with weakness,56,126,93,100.4,23,0.3,HIGH
+severe breathing difficulty,61,150,84,103.6,7,1.0,HIGH
+prescription refill,37,72,97,98.6,16,0.0,LOW
+minor fracture pain,32,106,92,100.4,34,0.0,MEDIUM
+prescription refill,52,79,97,98.8,15,0.0,LOW
+minor fracture pain,37,105,93,100.6,38,0.0,MEDIUM
+severe chest pain with sweating,88,127,87,102.1,40,1.0,HIGH
+mild allergy rash,90,75,98,98.9,34,0.0,LOW
+headache with nausea,16,104,93,99.5,33,0.0,MEDIUM
+fever and cough,2,87,93,100.2,20,0.0,MEDIUM
+severe breathing difficulty,40,123,86,104.7,16,1.0,HIGH
+severe chest pain with sweating,38,125,88,101.2,35,0.7,HIGH
+minor fracture pain,1,107,95,101.3,7,0.0,MEDIUM
+headache with nausea,26,87,98,100.4,12,0.0,MEDIUM
+minor fracture pain,15,98,92,100.2,24,0.0,MEDIUM
+high fever with weakness,41,112,94,101.8,28,0.3,HIGH
+minor fracture pain,20,86,97,101.2,36,0.0,MEDIUM
+persistent vomiting,36,129,90,102.6,27,1.0,HIGH
+mild fever,74,82,97,99.0,38,0.0,LOW
+severe chest pain with sweating,35,122,90,101.5,32,0.7,HIGH
+body ache,81,70,98,99.4,15,0.0,LOW
+headache with nausea,9,110,97,99.0,8,0.0,MEDIUM
+prescription refill,82,63,99,99.1,7,0.0,LOW
+prescription refill,14,70,98,98.6,25,0.0,LOW
+prescription refill,14,75,98,99.0,8,0.0,LOW
+body ache,49,92,100,99.5,29,0.0,LOW
+fever and cough,30,86,93,99.4,10,0.0,MEDIUM
+major trauma from accident,31,130,82,104.7,15,1.0,HIGH
+major trauma from accident,2,133,90,103.0,5,1.0,HIGH
+high fever with weakness,21,121,91,102.5,9,1.0,HIGH
+shortness of breath,82,118,94,100.6,39,0.3,HIGH
+shortness of breath,37,120,94,101.5,15,0.3,HIGH
+major trauma from accident,59,148,80,104.1,31,1.0,HIGH
+body ache,28,71,97,99.9,15,0.0,LOW
+unconscious after collapse,72,126,86,101.3,11,0.7,HIGH
+moderate chest pain,89,120,90,102.6,24,1.0,HIGH
+major trauma from accident,67,135,89,101.9,40,0.7,HIGH
+sore throat,35,89,95,98.8,12,0.0,LOW
+seizure activity ongoing,81,131,82,103.2,15,1.0,HIGH
+severe chest pain with sweating,60,150,81,103.9,7,1.0,HIGH
+mild fever,66,91,96,99.7,22,0.0,LOW
+body ache,87,77,95,99.6,3,0.0,LOW
+shortness of breath,33,113,92,102.3,33,0.6,HIGH
+high fever with weakness,27,125,95,100.8,23,0.3,HIGH
+minor fracture pain,44,92,95,100.8,21,0.0,MEDIUM
+fever and cough,21,110,94,101.3,24,0.0,MEDIUM
+headache with nausea,81,93,95,101.0,5,0.0,MEDIUM
+unconscious after collapse,44,145,81,104.5,31,1.0,HIGH
+severe chest pain with sweating,22,129,85,104.3,8,1.0,HIGH
+severe breathing difficulty,12,120,82,104.7,17,1.0,HIGH
+minor fracture pain,24,86,98,101.4,3,0.0,MEDIUM
+persistent vomiting,11,110,90,102.8,14,0.7,HIGH
+persistent vomiting,16,129,91,101.8,29,0.7,HIGH
+major trauma from accident,19,147,86,103.0,30,1.0,HIGH
+body ache,75,89,97,98.6,28,0.0,LOW
+seizure activity ongoing,25,126,90,103.8,40,1.0,HIGH
+minor fracture pain,45,95,97,100.7,37,0.0,MEDIUM
+mild allergy rash,35,69,100,98.7,22,0.0,LOW
+mild fever,3,70,98,98.8,29,0.0,LOW
+persistent vomiting,69,120,90,102.1,6,1.0,HIGH
+prescription refill,28,65,97,98.1,5,0.0,LOW
+severe chest pain with sweating,45,144,85,104.2,38,1.0,HIGH
+minor fracture pain,56,99,93,101.5,3,0.0,MEDIUM
+mild allergy rash,80,85,97,99.2,21,0.0,LOW
+sore throat,19,89,96,98.6,8,0.0,LOW
+fever and cough,87,87,93,99.0,9,0.0,MEDIUM
+body ache,29,81,98,98.3,40,0.0,LOW
+persistent vomiting,42,109,95,102.9,40,0.3,HIGH
+high fever with weakness,86,124,89,101.2,10,0.7,HIGH
+routine checkup request,39,72,100,98.6,32,0.0,LOW
+body ache,60,75,97,98.0,28,0.0,LOW
+prescription refill,24,72,98,98.1,26,0.0,LOW
+body ache,16,94,98,98.9,19,0.0,LOW
+persistent vomiting,90,121,92,101.7,25,0.3,HIGH
+severe breathing difficulty,84,144,87,102.3,4,1.0,HIGH
+mild fever,34,92,97,99.7,17,0.0,LOW
+seizure activity ongoing,17,141,82,103.9,23,1.0,HIGH
+unconscious after collapse,85,133,90,104.2,36,1.0,HIGH
+headache with nausea,6,92,97,101.0,16,0.0,MEDIUM
+major trauma from accident,49,120,81,103.7,5,1.0,HIGH
+severe breathing difficulty,22,130,87,104.8,6,1.0,HIGH
+fever and cough,16,106,92,100.4,40,0.0,MEDIUM
+mild allergy rash,33,63,99,98.1,3,0.0,LOW
+headache with nausea,60,102,93,99.4,13,0.0,MEDIUM
+headache with nausea,16,89,93,99.2,40,0.0,MEDIUM
+persistent vomiting,60,126,90,102.3,6,1.0,HIGH
+headache with nausea,47,86,92,100.6,22,0.0,MEDIUM
+fever and cough,33,96,97,101.9,34,0.0,MEDIUM
+high fever with weakness,14,123,92,100.9,23,0.3,HIGH
+severe chest pain with sweating,56,129,81,102.5,1,1.0,HIGH
+minor fracture pain,87,87,95,99.7,4,0.0,MEDIUM
+routine checkup request,33,66,98,99.1,13,0.0,LOW
+moderate chest pain,82,107,95,102.5,36,0.3,HIGH
+body ache,80,73,100,98.7,39,0.0,LOW
+fever and cough,82,109,97,100.0,37,0.0,MEDIUM
+major trauma from accident,79,137,87,103.2,40,1.0,HIGH
+fever and cough,83,92,94,101.4,22,0.0,MEDIUM
+mild fever,83,80,95,98.3,38,0.0,LOW
+severe chest pain with sweating,21,142,85,104.1,17,1.0,HIGH
+fever and cough,90,87,96,99.2,21,0.0,MEDIUM
+major trauma from accident,2,120,88,102.2,6,1.0,HIGH
+sore throat,18,84,98,100.0,31,0.0,LOW
+severe chest pain with sweating,59,129,85,102.8,13,1.0,HIGH
+major trauma from accident,26,139,88,104.4,4,1.0,HIGH
+major trauma from accident,62,142,80,103.1,6,1.0,HIGH
+fever and cough,29,96,93,100.9,21,0.0,MEDIUM
+high fever with weakness,38,109,91,100.1,35,0.4,HIGH
+persistent vomiting,61,113,95,102.2,39,0.6,HIGH
+persistent vomiting,32,122,88,102.8,11,1.0,HIGH
+fever and cough,3,97,95,100.3,13,0.0,MEDIUM
+fever and cough,62,86,92,101.1,33,0.0,MEDIUM
+sore throat,74,83,98,99.6,21,0.0,LOW
+mild allergy rash,43,82,98,99.1,3,0.0,LOW
+headache with nausea,7,110,94,100.2,24,0.0,MEDIUM
+minor fracture pain,76,85,92,100.6,2,0.0,MEDIUM
+moderate chest pain,41,112,92,101.0,11,0.3,HIGH
+prescription refill,52,78,98,98.3,12,0.0,LOW
+minor fracture pain,20,99,92,99.5,14,0.0,MEDIUM
+minor fracture pain,40,96,92,99.5,8,0.0,MEDIUM
+mild fever,5,92,96,99.3,27,0.0,LOW
+moderate chest pain,3,114,94,102.3,37,0.6,HIGH
+prescription refill,12,77,100,99.0,21,0.0,LOW
+shortness of breath,79,129,88,101.9,4,0.7,HIGH
+minor fracture pain,61,107,93,100.0,34,0.0,MEDIUM
+mild allergy rash,6,66,99,98.2,32,0.0,LOW
+headache with nausea,31,87,95,101.2,25,0.0,MEDIUM
+headache with nausea,54,100,94,100.4,1,0.0,MEDIUM
+unconscious after collapse,42,139,87,102.1,32,1.0,HIGH
+sore throat,78,75,96,98.1,10,0.0,LOW
+seizure activity ongoing,89,127,83,102.1,21,1.0,HIGH
+body ache,36,78,96,99.9,29,0.0,LOW
+persistent vomiting,26,120,94,101.9,5,0.3,HIGH
+mild allergy rash,18,60,100,99.4,25,0.0,LOW
+shortness of breath,18,116,93,101.7,29,0.3,HIGH
+severe breathing difficulty,74,146,88,103.7,32,1.0,HIGH
+severe chest pain with sweating,27,138,85,102.6,34,1.0,HIGH
+sore throat,1,85,96,98.9,10,0.0,LOW
+prescription refill,19,64,100,98.1,28,0.0,LOW
+sore throat,23,72,95,98.5,29,0.0,LOW
+unconscious after collapse,86,138,84,101.0,18,0.7,HIGH
+routine checkup request,30,72,97,98.4,28,0.0,LOW
+headache with nausea,3,92,93,100.9,8,0.0,MEDIUM
+routine checkup request,49,71,99,99.0,8,0.0,LOW
+headache with nausea,52,104,98,100.5,4,0.0,MEDIUM
+high fever with weakness,41,116,94,102.5,32,0.6,HIGH
+fever and cough,73,98,96,100.8,9,0.0,MEDIUM
+minor fracture pain,21,87,96,101.0,10,0.0,MEDIUM
+headache with nausea,10,85,98,99.3,27,0.0,MEDIUM
+persistent vomiting,56,106,91,100.1,10,0.4,HIGH
+fever and cough,20,96,97,100.1,13,0.0,MEDIUM
+prescription refill,32,61,99,98.9,30,0.0,LOW
+headache with nausea,76,92,96,99.9,33,0.0,MEDIUM
+routine checkup request,71,73,97,98.3,18,0.0,LOW
+headache with nausea,53,110,93,99.8,1,0.0,MEDIUM
+prescription refill,18,61,98,98.2,32,0.0,LOW
+mild allergy rash,27,68,98,98.6,29,0.0,LOW
+unconscious after collapse,70,139,88,102.3,4,1.0,HIGH
+moderate chest pain,64,122,94,101.8,29,0.3,HIGH
+moderate chest pain,25,112,89,101.4,38,0.7,HIGH
+body ache,45,73,97,98.2,30,0.0,LOW
+major trauma from accident,65,126,86,104.6,29,1.0,HIGH
+severe chest pain with sweating,20,121,89,102.6,28,1.0,HIGH
+prescription refill,39,74,99,99.4,10,0.0,LOW
+high fever with weakness,85,122,94,102.0,34,0.3,HIGH
+sore throat,44,81,96,99.5,29,0.0,LOW
+minor fracture pain,32,102,96,101.4,21,0.0,MEDIUM
+prescription refill,11,84,100,99.5,22,0.0,LOW
+prescription refill,6,83,97,98.8,22,0.0,LOW
+persistent vomiting,73,126,94,102.6,30,0.6,HIGH
+prescription refill,45,65,98,99.0,35,0.0,LOW
+mild fever,70,81,100,98.9,30,0.0,LOW
+major trauma from accident,58,121,89,104.7,19,1.0,HIGH
+mild allergy rash,17,66,100,99.1,12,0.0,LOW
+headache with nausea,61,99,98,99.9,10,0.0,MEDIUM
+fever and cough,68,104,94,101.2,32,0.0,MEDIUM
+high fever with weakness,18,117,94,101.1,37,0.3,HIGH
+sore throat,72,93,99,99.1,35,0.0,LOW
+prescription refill,74,72,99,98.5,17,0.0,LOW
+high fever with weakness,61,121,94,102.0,2,0.3,HIGH
+unconscious after collapse,6,137,80,102.5,4,1.0,HIGH
+severe chest pain with sweating,1,127,89,103.3,3,1.0,HIGH
+routine checkup request,55,77,100,99.4,23,0.0,LOW
+mild allergy rash,44,71,99,98.5,39,0.0,LOW
+fever and cough,11,97,98,100.0,15,0.0,MEDIUM
+moderate chest pain,17,115,93,102.0,4,0.3,HIGH
+minor fracture pain,11,105,92,100.2,2,0.0,MEDIUM
+moderate chest pain,60,116,90,101.4,7,0.7,HIGH
+minor fracture pain,3,85,98,100.7,34,0.0,MEDIUM
+moderate chest pain,48,112,93,100.5,30,0.3,HIGH
+mild fever,72,81,95,98.6,29,0.0,LOW
+high fever with weakness,77,127,93,101.0,30,0.3,HIGH
+severe breathing difficulty,76,122,86,103.7,4,1.0,HIGH
+severe chest pain with sweating,7,145,87,102.9,16,1.0,HIGH
+mild fever,11,75,95,98.6,23,0.0,LOW
+fever and cough,69,107,97,99.9,27,0.0,MEDIUM
+major trauma from accident,64,146,89,104.8,37,1.0,HIGH
+minor fracture pain,1,105,98,101.7,36,0.0,MEDIUM
+mild fever,38,95,99,98.9,4,0.0,LOW
+headache with nausea,37,95,96,101.6,12,0.0,MEDIUM
+mild allergy rash,80,69,99,98.8,31,0.0,LOW
+mild allergy rash,46,72,97,98.4,27,0.0,LOW
+major trauma from accident,39,129,81,103.4,3,1.0,HIGH
+minor fracture pain,31,94,98,99.6,14,0.0,MEDIUM
+sore throat,77,75,99,98.1,22,0.0,LOW
+routine checkup request,19,66,98,98.2,31,0.0,LOW
+fever and cough,18,85,98,99.2,30,0.0,MEDIUM
+body ache,16,86,97,99.0,37,0.0,LOW
+moderate chest pain,89,108,90,100.4,21,0.4,HIGH
+mild allergy rash,90,72,100,99.1,4,0.0,LOW
+high fever with weakness,75,113,90,102.5,12,1.0,HIGH
+severe chest pain with sweating,2,150,87,102.6,21,1.0,HIGH
+shortness of breath,40,125,90,102.0,15,0.7,HIGH
+major trauma from accident,40,129,85,104.1,30,1.0,HIGH
+major trauma from accident,71,128,82,104.3,10,1.0,HIGH
+mild fever,49,86,97,99.9,33,0.0,LOW
+persistent vomiting,17,127,91,100.4,40,0.7,HIGH
+sore throat,37,78,98,98.8,28,0.0,LOW
+persistent vomiting,82,116,90,100.7,6,0.7,HIGH
+major trauma from accident,19,127,82,103.8,38,1.0,HIGH
+headache with nausea,37,104,92,99.2,26,0.0,MEDIUM
+minor fracture pain,79,98,97,100.0,39,0.0,MEDIUM
+sore throat,22,70,97,99.3,34,0.0,LOW
+headache with nausea,27,91,95,100.1,35,0.0,MEDIUM
+fever and cough,23,102,94,99.2,17,0.0,MEDIUM
+mild fever,74,93,98,98.4,37,0.0,LOW
+moderate chest pain,90,125,88,102.1,35,1.0,HIGH
+minor fracture pain,3,102,98,100.5,15,0.0,MEDIUM
+prescription refill,84,81,99,98.7,10,0.0,LOW
+mild fever,49,81,96,100.0,24,0.0,LOW
+mild allergy rash,19,81,100,98.2,24,0.0,LOW
+severe chest pain with sweating,26,130,90,101.0,18,0.7,HIGH
+severe breathing difficulty,23,132,86,102.2,38,1.0,HIGH
+persistent vomiting,29,114,95,102.5,1,0.6,HIGH
+headache with nausea,26,98,92,99.3,30,0.0,MEDIUM
+headache with nausea,20,104,95,99.6,14,0.0,MEDIUM
+body ache,26,93,100,98.4,4,0.0,LOW
+minor fracture pain,59,86,97,100.9,6,0.0,MEDIUM
+headache with nausea,9,94,97,101.6,7,0.0,MEDIUM
+shortness of breath,39,123,95,101.7,34,0.3,HIGH
+mild allergy rash,84,66,98,99.2,3,0.0,LOW
+minor fracture pain,45,108,98,100.4,1,0.0,MEDIUM
+prescription refill,75,60,100,99.1,10,0.0,LOW
+mild fever,17,81,100,99.0,29,0.0,LOW
+prescription refill,30,74,100,98.4,8,0.0,LOW
+shortness of breath,78,115,89,101.6,15,0.7,HIGH
+unconscious after collapse,62,132,88,101.3,18,0.7,HIGH
+moderate chest pain,49,130,90,102.3,3,1.0,HIGH
+persistent vomiting,23,127,89,100.1,39,0.7,HIGH
+prescription refill,16,83,98,98.9,21,0.0,LOW
+seizure activity ongoing,41,149,80,103.0,36,1.0,HIGH
+unconscious after collapse,63,131,87,103.4,20,1.0,HIGH
+persistent vomiting,52,107,93,100.6,8,0.0,HIGH
+fever and cough,65,94,93,99.4,9,0.0,MEDIUM
+severe breathing difficulty,70,126,84,103.1,32,1.0,HIGH
+routine checkup request,82,85,100,99.5,21,0.0,LOW
+sore throat,23,87,96,99.5,27,0.0,LOW
+major trauma from accident,85,133,87,103.5,1,1.0,HIGH
+sore throat,81,77,100,99.3,38,0.0,LOW
+fever and cough,11,104,93,101.7,28,0.0,MEDIUM
+mild allergy rash,64,68,98,98.1,15,0.0,LOW
+shortness of breath,54,130,88,102.8,11,1.0,HIGH
+minor fracture pain,10,94,93,101.7,1,0.0,MEDIUM
+mild allergy rash,36,82,99,98.9,36,0.0,LOW
+body ache,45,81,98,99.1,8,0.0,LOW
+prescription refill,82,76,99,99.1,31,0.0,LOW
+body ache,69,75,97,99.5,29,0.0,LOW
+sore throat,63,85,99,99.1,18,0.0,LOW
+severe breathing difficulty,35,135,83,103.1,34,1.0,HIGH
+prescription refill,13,78,98,98.8,31,0.0,LOW
+headache with nausea,9,96,98,99.2,24,0.0,MEDIUM
+mild allergy rash,24,77,99,98.9,36,0.0,LOW
+sore throat,75,88,96,98.2,35,0.0,LOW
+major trauma from accident,47,137,85,102.2,12,1.0,HIGH
+routine checkup request,8,71,98,98.6,12,0.0,LOW
+sore throat,18,89,99,99.4,9,0.0,LOW
+mild allergy rash,58,80,97,99.0,34,0.0,LOW
+shortness of breath,44,116,91,101.1,28,0.7,HIGH
+minor fracture pain,26,102,97,100.4,33,0.0,MEDIUM
+severe breathing difficulty,10,139,86,104.5,40,1.0,HIGH
+sore throat,12,91,96,98.8,22,0.0,LOW
+body ache,55,81,96,99.7,14,0.0,LOW
+fever and cough,39,90,93,100.3,10,0.0,MEDIUM
+headache with nausea,38,85,93,99.6,32,0.0,MEDIUM
+fever and cough,6,106,92,99.6,30,0.0,MEDIUM
+mild allergy rash,8,70,99,98.6,10,0.0,LOW
+seizure activity ongoing,74,121,90,101.1,16,0.7,HIGH
+persistent vomiting,73,109,88,101.2,28,0.4,HIGH
+headache with nausea,55,94,95,101.3,8,0.0,MEDIUM
+routine checkup request,7,82,98,98.8,15,0.0,LOW
+sore throat,65,71,100,99.3,30,0.0,LOW
+fever and cough,3,94,92,99.1,19,0.0,MEDIUM
+sore throat,23,82,98,98.2,24,0.0,LOW
+moderate chest pain,1,117,88,100.8,33,0.7,HIGH
+mild fever,42,74,100,99.6,20,0.0,LOW
+routine checkup request,52,62,98,98.7,6,0.0,LOW
+shortness of breath,69,118,88,102.0,11,0.7,HIGH
+severe chest pain with sweating,48,141,82,101.4,7,0.7,HIGH
+mild fever,76,75,97,98.2,3,0.0,LOW
+fever and cough,17,85,94,101.0,37,0.0,MEDIUM
+mild fever,36,81,99,98.1,40,0.0,LOW
+moderate chest pain,88,126,90,101.9,25,0.7,HIGH
+sore throat,78,79,96,98.2,37,0.0,LOW
+moderate chest pain,64,111,94,102.1,2,0.6,HIGH
+sore throat,30,91,97,98.9,35,0.0,LOW
+fever and cough,83,90,98,101.9,17,0.0,MEDIUM
+prescription refill,31,81,98,99.1,32,0.0,LOW
+headache with nausea,66,110,97,101.1,18,0.0,MEDIUM
+fever and cough,86,100,96,99.4,26,0.0,MEDIUM
+sore throat,90,91,97,99.7,8,0.0,LOW
+sore throat,44,73,96,98.9,14,0.0,LOW
+moderate chest pain,1,118,93,101.5,27,0.3,HIGH
+high fever with weakness,16,120,89,102.7,1,1.0,HIGH
+major trauma from accident,57,135,90,102.4,8,1.0,HIGH
+shortness of breath,65,119,90,101.1,37,0.7,HIGH
+body ache,45,89,99,99.0,21,0.0,LOW
+routine checkup request,9,68,98,98.4,37,0.0,LOW
+headache with nausea,86,87,96,100.9,29,0.0,MEDIUM
+mild allergy rash,49,83,98,98.5,18,0.0,LOW
+major trauma from accident,25,145,81,101.7,2,0.7,HIGH
+prescription refill,36,61,100,98.6,24,0.0,LOW
+routine checkup request,60,70,98,98.0,33,0.0,LOW
+mild allergy rash,52,83,100,98.5,10,0.0,LOW
+fever and cough,10,100,95,101.0,32,0.0,MEDIUM
+headache with nausea,72,85,97,100.3,15,0.0,MEDIUM
+mild fever,27,78,100,99.1,16,0.0,LOW
+sore throat,88,95,95,98.4,24,0.0,LOW
+mild allergy rash,22,64,97,99.3,25,0.0,LOW
+headache with nausea,55,88,92,100.4,10,0.0,MEDIUM
+severe chest pain with sweating,54,148,83,104.2,18,1.0,HIGH
+fever and cough,68,109,93,99.3,22,0.0,MEDIUM
+minor fracture pain,51,98,93,101.3,37,0.0,MEDIUM
+headache with nausea,17,94,93,100.7,40,0.0,MEDIUM
+persistent vomiting,53,106,90,101.1,19,0.4,HIGH
+persistent vomiting,2,126,92,100.8,15,0.3,HIGH
+unconscious after collapse,65,149,87,101.1,34,0.7,HIGH
+minor fracture pain,89,103,98,100.6,22,0.0,MEDIUM
+severe breathing difficulty,34,127,84,104.2,9,1.0,HIGH
+routine checkup request,61,75,98,99.1,33,0.0,LOW
+moderate chest pain,81,114,95,100.7,36,0.3,HIGH
+severe breathing difficulty,87,135,84,104.6,20,1.0,HIGH
+unconscious after collapse,13,125,80,101.8,35,0.7,HIGH
+seizure activity ongoing,48,131,90,104.5,20,1.0,HIGH
+shortness of breath,14,107,94,100.2,31,0.0,HIGH
+severe breathing difficulty,45,122,89,104.3,27,1.0,HIGH
+persistent vomiting,71,120,88,101.2,7,0.7,HIGH
+body ache,53,71,100,99.2,32,0.0,LOW
+moderate chest pain,12,128,95,100.9,39,0.3,HIGH
+severe chest pain with sweating,27,125,83,102.1,1,1.0,HIGH
+fever and cough,82,106,92,100.6,26,0.0,MEDIUM
+body ache,7,79,95,99.5,10,0.0,LOW
+mild fever,53,93,98,99.5,34,0.0,LOW
+sore throat,54,86,96,99.3,30,0.0,LOW
+severe chest pain with sweating,26,150,85,104.1,28,1.0,HIGH
+headache with nausea,62,102,96,101.1,3,0.0,MEDIUM
+headache with nausea,14,91,92,99.9,26,0.0,MEDIUM
+body ache,35,71,98,98.3,7,0.0,LOW
+unconscious after collapse,60,135,85,101.9,34,0.7,HIGH
+high fever with weakness,58,114,89,102.7,12,1.0,HIGH
+shortness of breath,34,116,93,101.5,15,0.3,HIGH
+mild fever,79,81,100,98.8,33,0.0,LOW
+headache with nausea,75,96,94,99.8,2,0.0,MEDIUM
+seizure activity ongoing,56,137,89,104.6,24,1.0,HIGH
+body ache,12,83,96,98.4,37,0.0,LOW
+body ache,74,90,98,99.5,8,0.0,LOW
+routine checkup request,65,78,99,99.3,2,0.0,LOW
+mild allergy rash,80,67,99,99.4,6,0.0,LOW
+fever and cough,14,89,92,101.2,26,0.0,MEDIUM
+mild allergy rash,18,65,98,98.9,28,0.0,LOW
+mild fever,81,94,98,98.5,4,0.0,LOW
+severe breathing difficulty,3,135,84,104.8,24,1.0,HIGH
+prescription refill,68,65,98,98.1,14,0.0,LOW
+mild fever,22,75,99,99.5,24,0.0,LOW
+prescription refill,6,82,97,98.6,4,0.0,LOW
+minor fracture pain,37,85,95,99.9,21,0.0,MEDIUM
+persistent vomiting,67,126,91,100.6,32,0.7,HIGH
+mild fever,52,80,99,98.0,26,0.0,LOW
+minor fracture pain,17,91,94,100.7,36,0.0,MEDIUM
+severe breathing difficulty,43,140,82,104.8,23,1.0,HIGH
+body ache,20,72,98,99.0,13,0.0,LOW
+persistent vomiting,84,115,90,102.3,24,1.0,HIGH
+sore throat,72,77,98,98.5,14,0.0,LOW
+high fever with weakness,28,121,90,101.7,37,0.7,HIGH
+mild fever,70,93,95,99.1,39,0.0,LOW
+mild fever,52,82,96,99.2,3,0.0,LOW
+routine checkup request,44,84,97,98.9,40,0.0,LOW
+minor fracture pain,42,93,93,99.7,13,0.0,MEDIUM
+fever and cough,53,102,92,100.9,39,0.0,MEDIUM
+unconscious after collapse,19,147,82,101.9,30,0.7,HIGH
+headache with nausea,86,109,97,100.3,17,0.0,MEDIUM
+prescription refill,31,62,98,99.3,35,0.0,LOW
+shortness of breath,67,116,95,100.3,28,0.3,HIGH
+persistent vomiting,27,123,90,100.5,27,0.7,HIGH
+minor fracture pain,13,91,92,99.3,6,0.0,MEDIUM
+fever and cough,42,89,98,99.4,37,0.0,MEDIUM
+severe breathing difficulty,19,150,90,105.0,8,1.0,HIGH
+major trauma from accident,37,135,83,103.8,30,1.0,HIGH
+seizure activity ongoing,42,134,87,102.5,31,1.0,HIGH
+prescription refill,1,75,100,99.2,27,0.0,LOW
+mild allergy rash,27,74,99,99.5,16,0.0,LOW
+high fever with weakness,10,110,91,100.2,34,0.4,HIGH
+shortness of breath,71,116,92,102.2,17,0.6,HIGH
+severe chest pain with sweating,61,134,81,104.1,6,1.0,HIGH
+mild allergy rash,41,83,100,99.4,38,0.0,LOW
+routine checkup request,11,77,97,99.5,5,0.0,LOW
+severe breathing difficulty,70,127,85,103.8,14,1.0,HIGH
+prescription refill,74,80,98,98.2,37,0.0,LOW
+fever and cough,48,101,93,99.7,10,0.0,MEDIUM
+high fever with weakness,85,115,93,100.9,35,0.3,HIGH
+mild allergy rash,36,61,97,99.0,8,0.0,LOW
+mild fever,81,91,96,98.9,19,0.0,LOW
+fever and cough,19,105,98,99.7,19,0.0,MEDIUM
+prescription refill,62,81,100,99.5,18,0.0,LOW
+routine checkup request,81,84,100,99.4,27,0.0,LOW
+shortness of breath,64,110,91,102.7,39,0.7,HIGH
+severe chest pain with sweating,55,135,90,101.4,31,0.7,HIGH
+persistent vomiting,59,120,94,100.2,36,0.3,HIGH
+fever and cough,31,103,95,99.9,6,0.0,MEDIUM
+mild allergy rash,48,82,98,98.9,14,0.0,LOW
+sore throat,45,91,98,99.8,35,0.0,LOW
+mild allergy rash,42,80,100,98.9,20,0.0,LOW
+minor fracture pain,52,102,92,99.5,38,0.0,MEDIUM
+major trauma from accident,5,127,88,102.3,15,1.0,HIGH
+mild allergy rash,61,64,99,98.8,30,0.0,LOW
+headache with nausea,75,93,94,101.8,26,0.0,MEDIUM
+mild fever,8,85,100,98.7,4,0.0,LOW
+prescription refill,81,78,97,98.5,32,0.0,LOW
+seizure activity ongoing,59,129,80,103.5,39,1.0,HIGH
+mild allergy rash,88,64,98,98.4,9,0.0,LOW
+moderate chest pain,11,110,88,100.2,2,0.4,HIGH
+severe chest pain with sweating,59,143,86,101.9,15,0.7,HIGH
+high fever with weakness,28,129,93,102.1,5,0.6,HIGH
+minor fracture pain,87,86,93,100.3,18,0.0,MEDIUM
+shortness of breath,78,114,90,101.0,5,0.7,HIGH
+sore throat,45,85,99,100.0,17,0.0,LOW
+fever and cough,31,91,93,100.4,20,0.0,MEDIUM
+moderate chest pain,79,105,94,103.0,31,0.3,HIGH
+sore throat,37,93,96,99.0,8,0.0,LOW
+major trauma from accident,68,148,89,104.6,22,1.0,HIGH
+sore throat,47,79,96,99.2,27,0.0,LOW
+minor fracture pain,59,92,92,100.4,40,0.0,MEDIUM
+prescription refill,65,79,99,99.3,40,0.0,LOW
+prescription refill,23,71,97,99.0,6,0.0,LOW
+shortness of breath,40,116,92,102.5,20,0.6,HIGH
+routine checkup request,33,69,98,98.2,3,0.0,LOW
+seizure activity ongoing,56,122,83,104.9,13,1.0,HIGH
+body ache,44,90,96,98.6,13,0.0,LOW
+mild allergy rash,22,67,97,98.9,5,0.0,LOW
+minor fracture pain,71,90,93,101.1,21,0.0,MEDIUM
+fever and cough,85,97,98,101.6,35,0.0,MEDIUM
+shortness of breath,56,130,88,101.8,8,0.7,HIGH
+shortness of breath,8,106,94,101.9,2,0.0,HIGH
+mild fever,5,73,98,99.8,3,0.0,LOW
+severe chest pain with sweating,38,127,87,104.1,12,1.0,HIGH
+moderate chest pain,56,125,93,101.3,17,0.3,HIGH
+routine checkup request,7,70,99,98.5,4,0.0,LOW
+shortness of breath,83,128,90,100.8,8,0.7,HIGH
+body ache,73,73,98,99.3,23,0.0,LOW
+routine checkup request,33,63,100,98.9,1,0.0,LOW
+sore throat,79,92,97,99.3,32,0.0,LOW
+fever and cough,78,107,97,99.4,39,0.0,MEDIUM
+minor fracture pain,35,100,92,100.7,8,0.0,MEDIUM
+shortness of breath,29,126,90,102.1,24,1.0,HIGH
+severe breathing difficulty,67,120,87,101.1,29,0.7,HIGH
+prescription refill,47,78,100,99.4,17,0.0,LOW
+body ache,86,75,97,99.4,29,0.0,LOW
+severe breathing difficulty,3,122,82,101.9,27,0.7,HIGH
+mild allergy rash,60,66,100,99.4,13,0.0,LOW
+unconscious after collapse,36,131,81,103.6,14,1.0,HIGH
+mild fever,89,79,95,98.7,11,0.0,LOW
+body ache,21,85,100,99.9,20,0.0,LOW
+unconscious after collapse,23,150,90,102.9,25,1.0,HIGH
+prescription refill,71,80,98,99.4,12,0.0,LOW
+routine checkup request,68,68,100,98.8,38,0.0,LOW
+headache with nausea,45,100,96,100.9,24,0.0,MEDIUM
+severe breathing difficulty,37,123,88,102.9,7,1.0,HIGH
+persistent vomiting,26,126,94,102.3,13,0.6,HIGH
+minor fracture pain,42,87,97,99.3,11,0.0,MEDIUM
+severe breathing difficulty,27,123,88,103.9,29,1.0,HIGH
+severe chest pain with sweating,79,128,88,104.7,31,1.0,HIGH
+minor fracture pain,77,94,98,100.9,12,0.0,MEDIUM
+mild fever,59,73,95,99.5,7,0.0,LOW
+prescription refill,90,68,98,98.3,31,0.0,LOW
+high fever with weakness,53,106,90,100.3,18,0.4,HIGH
+prescription refill,5,67,100,98.6,37,0.0,LOW
+minor fracture pain,60,86,93,100.1,20,0.0,MEDIUM
+prescription refill,87,68,97,98.6,1,0.0,LOW
+fever and cough,56,100,94,101.0,10,0.0,MEDIUM
+minor fracture pain,77,106,98,101.5,19,0.0,MEDIUM
+moderate chest pain,6,109,93,100.1,3,0.0,HIGH
+major trauma from accident,78,131,82,102.0,26,0.7,HIGH
+moderate chest pain,36,122,88,102.1,36,1.0,HIGH
+body ache,58,91,99,98.7,20,0.0,LOW
+headache with nausea,9,86,98,101.5,22,0.0,MEDIUM
+minor fracture pain,52,101,92,99.0,27,0.0,MEDIUM
+routine checkup request,17,68,100,98.1,39,0.0,LOW
+sore throat,81,82,95,99.6,17,0.0,LOW
+fever and cough,1,89,95,101.6,40,0.0,MEDIUM
+headache with nausea,88,92,96,100.7,9,0.0,MEDIUM
+body ache,60,81,99,99.6,21,0.0,LOW
+seizure activity ongoing,74,139,80,102.1,35,1.0,HIGH
+fever and cough,54,108,94,100.0,1,0.0,MEDIUM
+body ache,61,81,98,98.8,34,0.0,LOW
+moderate chest pain,9,123,93,102.1,33,0.6,HIGH
+mild fever,58,95,99,98.5,20,0.0,LOW
+sore throat,54,95,98,98.5,3,0.0,LOW
+body ache,33,86,97,98.5,18,0.0,LOW
+fever and cough,51,108,93,99.7,17,0.0,MEDIUM
+severe chest pain with sweating,11,148,84,103.1,39,1.0,HIGH
+high fever with weakness,90,107,89,100.9,40,0.4,HIGH
+moderate chest pain,73,115,92,101.8,40,0.3,HIGH
+mild fever,56,88,98,98.2,29,0.0,LOW
+routine checkup request,69,68,98,98.7,22,0.0,LOW
+sore throat,15,94,99,99.2,19,0.0,LOW
+mild fever,73,71,95,98.8,17,0.0,LOW
+seizure activity ongoing,53,123,84,104.8,5,1.0,HIGH
+prescription refill,48,66,97,98.8,8,0.0,LOW
+body ache,5,79,100,99.5,5,0.0,LOW
+severe breathing difficulty,25,120,86,102.0,34,0.7,HIGH
+mild fever,23,75,97,98.9,3,0.0,LOW
+routine checkup request,61,75,97,98.9,10,0.0,LOW
+sore throat,35,85,97,98.6,23,0.0,LOW
+major trauma from accident,72,124,85,104.1,38,1.0,HIGH
+sore throat,29,90,100,99.7,28,0.0,LOW
+routine checkup request,85,77,100,99.1,30,0.0,LOW
+unconscious after collapse,89,145,87,103.7,20,1.0,HIGH
+minor fracture pain,60,103,98,99.5,29,0.0,MEDIUM
+mild allergy rash,86,84,98,98.3,5,0.0,LOW
+headache with nausea,70,110,97,99.2,2,0.0,MEDIUM
+high fever with weakness,25,130,92,101.9,14,0.3,HIGH
+body ache,1,86,99,98.4,15,0.0,LOW
+severe chest pain with sweating,58,142,89,104.3,9,1.0,HIGH
+mild fever,77,88,97,98.7,22,0.0,LOW
+unconscious after collapse,66,130,87,104.4,27,1.0,HIGH
+high fever with weakness,18,127,92,102.2,21,0.6,HIGH
+body ache,76,78,99,98.4,16,0.0,LOW
+mild fever,16,83,97,98.4,36,0.0,LOW
+mild allergy rash,82,73,100,99.4,1,0.0,LOW
+minor fracture pain,57,107,93,101.8,33,0.0,MEDIUM
+fever and cough,12,88,93,100.3,30,0.0,MEDIUM
+body ache,25,80,95,99.1,30,0.0,LOW
+sore throat,12,78,97,99.4,23,0.0,LOW
+headache with nausea,9,97,97,101.9,38,0.0,MEDIUM
+body ache,6,77,98,98.6,24,0.0,LOW
+moderate chest pain,70,130,93,100.1,36,0.3,HIGH
+body ache,73,75,95,98.6,27,0.0,LOW
+minor fracture pain,18,87,94,100.6,18,0.0,MEDIUM
+mild fever,89,77,96,100.0,40,0.0,LOW
+severe breathing difficulty,14,140,81,103.3,1,1.0,HIGH
+routine checkup request,44,64,99,98.6,23,0.0,LOW
+high fever with weakness,37,111,88,103.0,25,1.0,HIGH
+body ache,47,91,100,100.0,22,0.0,LOW
+body ache,79,83,99,99.7,22,0.0,LOW
+headache with nausea,66,103,97,99.9,24,0.0,MEDIUM
+minor fracture pain,57,92,92,99.7,16,0.0,MEDIUM
+fever and cough,82,108,96,101.2,14,0.0,MEDIUM
+high fever with weakness,86,121,90,100.3,12,0.7,HIGH
+mild fever,77,94,100,99.8,40,0.0,LOW
+mild allergy rash,64,64,99,98.3,32,0.0,LOW
+moderate chest pain,55,120,91,100.9,40,0.7,HIGH
+persistent vomiting,43,114,88,102.2,18,1.0,HIGH
+prescription refill,59,79,99,98.9,12,0.0,LOW
+prescription refill,73,65,99,99.1,34,0.0,LOW
+fever and cough,86,97,95,100.2,24,0.0,MEDIUM
+severe breathing difficulty,59,132,89,101.6,24,0.7,HIGH
+persistent vomiting,81,129,92,101.1,20,0.3,HIGH
+minor fracture pain,24,96,93,102.0,2,0.0,MEDIUM
+fever and cough,21,105,94,99.3,14,0.0,MEDIUM
+minor fracture pain,69,94,92,99.1,10,0.0,MEDIUM
+moderate chest pain,90,124,93,101.2,35,0.3,HIGH
+body ache,66,94,95,98.9,18,0.0,LOW
+mild fever,25,74,98,98.2,29,0.0,LOW
+seizure activity ongoing,47,122,83,104.5,20,1.0,HIGH
+minor fracture pain,13,94,96,101.1,18,0.0,MEDIUM
+routine checkup request,14,78,97,99.0,15,0.0,LOW
+high fever with weakness,3,108,93,102.3,24,0.3,HIGH
+major trauma from accident,12,122,87,101.4,37,0.7,HIGH
+mild allergy rash,62,61,98,99.0,3,0.0,LOW
+fever and cough,45,94,94,101.4,27,0.0,MEDIUM
+sore throat,83,80,99,99.0,29,0.0,LOW
+minor fracture pain,61,91,95,101.9,35,0.0,MEDIUM
+mild allergy rash,69,78,100,98.4,10,0.0,LOW
+severe chest pain with sweating,30,130,89,103.2,36,1.0,HIGH
+severe breathing difficulty,83,120,83,102.4,22,1.0,HIGH
+minor fracture pain,25,104,92,99.8,37,0.0,MEDIUM
+headache with nausea,33,97,93,100.2,33,0.0,MEDIUM
+body ache,70,93,97,99.5,20,0.0,LOW
+headache with nausea,43,86,93,99.9,9,0.0,MEDIUM
+shortness of breath,53,130,95,102.9,1,0.6,HIGH
+headache with nausea,57,107,93,101.4,18,0.0,MEDIUM
+prescription refill,51,85,97,99.3,37,0.0,LOW
+sore throat,3,91,100,98.3,18,0.0,LOW
+routine checkup request,85,72,100,98.6,13,0.0,LOW
+prescription refill,25,72,98,99.2,18,0.0,LOW
+minor fracture pain,53,92,96,100.0,7,0.0,MEDIUM
+mild fever,21,85,95,99.9,40,0.0,LOW
+mild allergy rash,23,64,99,98.1,3,0.0,LOW
+sore throat,68,81,98,99.4,29,0.0,LOW
+shortness of breath,63,123,88,101.1,12,0.7,HIGH
+headache with nausea,85,104,95,100.9,30,0.0,MEDIUM
+prescription refill,25,78,97,99.1,34,0.0,LOW
+sore throat,33,70,100,98.6,31,0.0,LOW
+unconscious after collapse,23,122,87,104.2,18,1.0,HIGH
+moderate chest pain,78,117,94,103.0,6,0.6,HIGH
+moderate chest pain,31,128,92,101.5,3,0.3,HIGH
+shortness of breath,5,127,89,101.4,1,0.7,HIGH
+minor fracture pain,6,85,98,101.9,34,0.0,MEDIUM
+sore throat,19,71,95,99.3,38,0.0,LOW
+high fever with weakness,10,111,93,100.4,6,0.3,HIGH
+minor fracture pain,74,90,94,101.2,23,0.0,MEDIUM
+mild fever,47,74,96,98.1,29,0.0,LOW
+body ache,33,86,99,99.2,22,0.0,LOW
+prescription refill,9,79,100,98.2,14,0.0,LOW
+shortness of breath,76,130,95,102.4,15,0.6,HIGH
+high fever with weakness,43,129,89,100.2,40,0.7,HIGH
+severe breathing difficulty,82,148,90,103.9,8,1.0,HIGH
+shortness of breath,20,106,93,100.4,22,0.0,HIGH
+unconscious after collapse,3,138,87,103.1,32,1.0,HIGH
+mild allergy rash,44,62,98,98.5,9,0.0,LOW
+routine checkup request,77,78,99,98.5,16,0.0,LOW
+mild allergy rash,44,77,100,99.1,35,0.0,LOW
+headache with nausea,89,87,98,100.7,3,0.0,MEDIUM
+minor fracture pain,39,104,96,101.6,15,0.0,MEDIUM
+sore throat,26,88,98,98.8,32,0.0,LOW
+sore throat,35,80,100,99.0,34,0.0,LOW
+unconscious after collapse,68,125,87,104.6,20,1.0,HIGH
+major trauma from accident,86,139,86,102.8,21,1.0,HIGH
+prescription refill,79,83,99,99.3,23,0.0,LOW
+mild allergy rash,62,68,97,98.9,3,0.0,LOW
+prescription refill,19,64,97,98.3,9,0.0,LOW
+severe chest pain with sweating,89,122,83,105.0,34,1.0,HIGH
+prescription refill,2,85,99,98.7,16,0.0,LOW
+shortness of breath,59,121,93,102.9,28,0.6,HIGH
+sore throat,46,80,96,98.0,15,0.0,LOW
+minor fracture pain,12,86,95,101.8,13,0.0,MEDIUM
+shortness of breath,56,109,94,101.1,12,0.0,HIGH
+major trauma from accident,57,134,82,104.0,7,1.0,HIGH
+headache with nausea,40,96,95,101.7,33,0.0,MEDIUM
+headache with nausea,4,88,92,99.2,24,0.0,MEDIUM
+prescription refill,64,69,99,98.3,10,0.0,LOW
+persistent vomiting,78,124,95,101.5,34,0.3,HIGH
+seizure activity ongoing,25,132,90,104.5,35,1.0,HIGH
+routine checkup request,82,67,98,98.5,38,0.0,LOW
+headache with nausea,64,107,96,99.7,13,0.0,MEDIUM
+headache with nausea,74,91,94,100.2,4,0.0,MEDIUM
+persistent vomiting,58,124,90,100.2,24,0.7,HIGH
+headache with nausea,39,91,93,101.5,5,0.0,MEDIUM
+severe chest pain with sweating,25,132,80,104.1,27,1.0,HIGH
+moderate chest pain,76,114,88,101.3,13,0.7,HIGH
+prescription refill,19,69,97,98.0,29,0.0,LOW
+routine checkup request,9,69,97,98.8,38,0.0,LOW
+severe breathing difficulty,89,145,90,104.4,13,1.0,HIGH
+prescription refill,19,62,98,98.9,4,0.0,LOW
+mild fever,21,77,96,99.5,29,0.0,LOW
+minor fracture pain,24,88,96,99.4,36,0.0,MEDIUM
+body ache,88,70,97,99.5,15,0.0,LOW
+mild allergy rash,89,68,98,98.4,19,0.0,LOW
+mild allergy rash,11,64,100,98.5,10,0.0,LOW
+prescription refill,34,76,100,99.2,16,0.0,LOW
+mild allergy rash,68,65,98,98.8,26,0.0,LOW
+mild allergy rash,16,80,100,98.5,33,0.0,LOW
+high fever with weakness,7,125,94,101.3,35,0.3,HIGH
+persistent vomiting,7,118,95,100.6,13,0.3,HIGH
+body ache,23,75,95,98.2,33,0.0,LOW
+fever and cough,36,94,97,100.4,39,0.0,MEDIUM
+major trauma from accident,21,130,84,104.5,33,1.0,HIGH
+seizure activity ongoing,32,142,80,104.1,39,1.0,HIGH
+mild fever,44,79,95,98.4,37,0.0,LOW

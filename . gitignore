@@ -1,0 +1,18 @@
+# Ignore Environment and Compilers
+env/
+venv/
+CodeBlocks/
+MinGW/
+
+# Ignore Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore ML Models (only if they are very large >100MB)
+# ml/*.pkl
