@@ -11,7 +11,7 @@ import torch
 # -----------------------------
 # Load Dataset
 # -----------------------------
-df = pd.read_csv("../data/er_patient_dataset.csv")
+df = pd.read_csv("data/er_patient_dataset.csv")
 
 # -----------------------------
 # Load BERT
