@@ -1,29 +1,25 @@
-from transformers import AutoTokenizer, AutoModel
+from sentence_transformers import SentenceTransformer
 import torch
 
 # Global variables initially empty
-tokenizer = None
 model = None
 
 # -----------------------------
-# Load DistilBERT only once (Lightweight & Fast)
+# Load MiniLM only once 
 # -----------------------------
 def load_bert():
-    global tokenizer, model
+    global model
 
-    if tokenizer is None or model is None:
-        # Hackathon Optimization: Using DistilBERT for 60% faster loading
-        print("Loading DistilBERT model... (Optimized for Speed)")
+    if model is None:
+        print("Loading MiniLM model... (Optimized for Render RAM)")
         
-        model_name = "distilbert-base-uncased"
+        model_name = "all-MiniLM-L6-v2"
         
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
-        model = AutoModel.from_pretrained(model_name)
+        model = SentenceTransformer(model_name)
         
-        torch.set_num_threads(4) 
+        torch.set_num_threads(1) 
         
-        model.eval()
-        print("DistilBERT Loaded Successfully!")
+        print("MiniLM Loaded Successfully!")
 
 
 # -----------------------------
@@ -37,18 +33,6 @@ def encode_symptoms(text):
     if not text:
         text = "normal"
 
-    inputs = tokenizer(
-        text,
-        return_tensors="pt",
-        truncation=True,
-        padding=True,
-        max_length=128 
-    )
+    embedding = model.encode(text)
 
-    with torch.no_grad():
-        outputs = model(**inputs)
-
-    embedding = outputs.last_hidden_state.mean(dim=1)
-
-    # Convert to numpy array for the fusion layer
-    return embedding.numpy()[0]
+    return embedding
