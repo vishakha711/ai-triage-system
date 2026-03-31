@@ -1,38 +1,34 @@
 from sentence_transformers import SentenceTransformer
 import torch
+import gc
 
-# Global variables initially empty
+# Model variable ko initially None rakhein
 model = None
 
-# -----------------------------
-# Load MiniLM only once 
-# -----------------------------
 def load_bert():
     global model
-
     if model is None:
-        print("Loading MiniLM model... (Optimized for Render RAM)")
+        print("Loading MiniLM model... (Memory Optimized Mode)")
         
-        model_name = "all-MiniLM-L6-v2"
+        device = "cpu"
         
-        model = SentenceTransformer(model_name)
+        model = SentenceTransformer('all-MiniLM-L6-v2', device=device)
         
-        torch.set_num_threads(1) 
+        torch.set_num_threads(1)
         
-        print("MiniLM Loaded Successfully!")
+        model.eval()
+        print("Model Loaded Successfully!")
 
-
-# -----------------------------
-# Encode symptoms text (Vectorization)
-# -----------------------------
 def encode_symptoms(text):
-    # Ensure model is loaded
-    load_bert() 
-
-    # Input cleaning (Essential for good results)
+    global model
+    load_bert()
+    
     if not text:
         text = "normal"
 
-    embedding = model.encode(text)
+
+    with torch.no_grad():
+        
+        embedding = model.encode(text, convert_to_numpy=True)
 
     return embedding
