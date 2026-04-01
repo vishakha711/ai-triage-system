@@ -71,7 +71,7 @@ model.fit(X, y)
 # -----------------------------
 # Save Model
 # -----------------------------
-pickle.dump(model, open("triage_model.pkl", "wb"))
-pickle.dump(le, open("label_encoder.pkl", "wb"))
+pickle.dump(model, open("models/triage_model.pkl", "wb"))
+pickle.dump(le, open("models/label_encoder.pkl", "wb"))
 
 print(" Model trained & saved successfully!")

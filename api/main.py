@@ -96,7 +96,9 @@ async def triage_voice(file: UploadFile = File(...)):
     features = fuse_features(embedding, patient_data)
 
     priority, confidence = predict(features)
+    queue_size = get_queue_size()
 
+    wait_time = estimate_wait(queue_size, 8, priority)
     add_patient(
         name,   
         age,
@@ -108,10 +110,7 @@ async def triage_voice(file: UploadFile = File(...)):
         vitals["spo2"],
         vitals["temperature"]
 )
-    queue_size = get_queue_size()
-
-    wait_time = estimate_wait(queue_size, 8, priority)
-
+   
     return {
         "recognized_text": text,
         "name": name,
